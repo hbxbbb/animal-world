@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>地球动物馆 · 人人可看的全球图鉴</title>
+  <meta name="description" content="公开的全球动物图鉴：按大洲浏览，看照片、读习性、了解保护现状。无需登录。" />
+  <link rel="preconnect" href="https://images.unsplash.com" />
+  <link rel="preconnect" href="https://upload.wikimedia.org" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,650;1,6..72,500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#top">
+      <span class="brand-mark">館</span>
+      <span>
+        <strong>地球动物馆</strong>
+        <em>Animalis Mundi</em>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="页面导航">
+      <a href="#atlas">图鉴</a>
+      <a href="#wings">展厅</a>
+      <a href="#about">关于</a>
+    </nav>
+    <p class="access-note">公开开放 · 无需登录</p>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">一座不上锁的自然史博物馆</p>
+        <h1>把全世界的动物，<br />摊开在一张地图上。</h1>
+        <p class="lede">从稀树草原到南极海冰，从城市夜巷到高山裸岩。这里只做一件事：让任何人都能看见它们——有照片，有来历，有保护现状。</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#atlas">进入图鉴</a>
+          <button class="btn ghost" type="button" id="random-btn">随机遇见</button>
+        </div>
+        <dl class="stats">
+          <div>
+            <dt>收录动物</dt>
+            <dd id="stat-count">36</dd>
+          </div>
+          <div>
+            <dt>地理展厅</dt>
+            <dd>7</dd>
+          </div>
+          <div>
+            <dt>参观方式</dt>
+            <dd>免费</dd>
+          </div>
+        </dl>
+      </div>
+      <figure class="hero-stage" id="hero-stage">
+        <img id="hero-image" alt="" referrerpolicy="no-referrer" />
+        <figcaption>
+          <span id="hero-kicker">今日展出</span>
+          <strong id="hero-name"></strong>
+          <i id="hero-latin"></i>
+        </figcaption>
+      </figure>
+    </section>
+
+    <section class="wings" id="wings">
+      <div class="section-head">
+        <h2>七个展厅</h2>
+        <p>按大陆与海域走进去。每一侧翼都是一种气候、一种生存策略。</p>
+      </div>
+      <div class="wing-grid" id="wing-grid"></div>
+    </section>
+
+    <section class="atlas" id="atlas">
+      <div class="atlas-bar">
+        <div>
+          <h2>全球图鉴</h2>
+          <p class="result-line" id="result-line">正在整理展品…</p>
+        </div>
+        <label class="search">
+          <span class="sr-only">搜索动物</span>
+          <input id="search-input" type="search" placeholder="搜索中文名、拉丁名、栖息地…" autocomplete="off" />
+        </label>
+      </div>
+      <div class="filters" id="filters" role="tablist" aria-label="按地区筛选"></div>
+      <div class="gallery" id="gallery"></div>
+      <p class="empty" id="empty" hidden>这座展厅里暂时没有匹配的动物。换个词，或回到“全部”。</p>
+    </section>
+
+    <section class="about" id="about">
+      <div>
+        <p class="eyebrow">产品说明</p>
+        <h2>为路过的人而做，不为登录而做。</h2>
+        <p>动物世界不该先变成账号墙。这是一间对公众打开的图鉴：看照片、读一段够用的介绍，知道它住在哪、吃什么、过得是否安全。内容面向家庭、学生和随手想认识一种动物的人。</p>
+      </div>
+      <ul class="principles">
+        <li><strong>看见</strong>每一种动物都配有真实照片。</li>
+        <li><strong>读懂</strong>分布、食性、保护等级一眼能找到。</li>
+        <li><strong>开放</strong>任何人可浏览，不设登录与付费。</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>地球动物馆 · 公开图鉴。照片来自 Unsplash 与 Wikimedia Commons，仅供浏览学习。</p>
+    <p>保护等级参考 IUCN 通俗表述，非正式评估报告。</p>
+  </footer>
+
+  <div class="overlay" id="overlay" hidden>
+    <article class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-name">
+      <button class="close" type="button" id="close-sheet" aria-label="关闭">关闭</button>
+      <div class="sheet-photo">
+        <img id="sheet-image" alt="" />
+      </div>
+      <div class="sheet-body">
+        <p class="sheet-region" id="sheet-region"></p>
+        <h3 id="sheet-name"></h3>
+        <p class="latin" id="sheet-latin"></p>
+        <ul class="meta" id="sheet-meta"></ul>
+        <p class="story" id="sheet-story"></p>
+        <ul class="facts" id="sheet-facts"></ul>
+      </div>
+    </article>
+  </div>
+
+  <script src="js/animals.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
