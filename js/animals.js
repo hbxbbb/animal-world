@@ -45,7 +45,12 @@
       status: "易危",
       statusLevel: "vu",
       unsplash: ["photo-1547721064-8716ad6c0c0e"],
-      files: ["Giraffe Mikumi National Park.jpg", "Giraffa camelopardalis -head-8a.jpg", "Two giraffes.jpg"],
+      files: [
+        "Rothschild's giraffe (Giraffa camelopardalis rothschildi) - Murchison Falls National Park.jpg",
+        "Giraffe Mikumi National Park.jpg",
+        "Giraffa camelopardalis -head-8a.jpg",
+        "Two giraffes.jpg"
+      ],
       summary: "世界上最高的陆地动物，斑纹像指纹一样各不相同。",
       story: "长颈鹿用长舌卷取金合欢树冠上的嫩叶。为了把血液送到两米高的头部，它们拥有特别厚实的心脏和单向瓣膜。看似安静的散步，其实是在广阔领地里持续巡视食物与同伴。",
       facts: ["身高可达 5.5 米", "舌头约 45 厘米", "睡眠每天可能不足 2 小时"]
@@ -60,7 +65,11 @@
       status: "近危",
       statusLevel: "nt",
       unsplash: ["photo-1501706362039-c06b2d715385"],
-      files: ["Equus quagga.jpg", "Plains Zebra Equus quagga.jpg", "Zebra Botswana.jpg"],
+      files: [
+        "Plains Zebra Equus quagga.jpg",
+        "Equus quagga.jpg",
+        "Zebra Botswana.jpg"
+      ],
       summary: "黑白条纹既是伪装，也可能用来扰乱吸血昆虫。",
       story: "每一匹斑马的条纹排列都独一无二。迁徙季节，它们会与角马结成巨大的移动队伍，穿过河流和草原。条纹在热浪中晃动，能让狮群更难锁定单一个体。",
       facts: ["条纹如指纹般独特", "社群等级分明", "是塞伦盖蒂大迁徙成员"]
@@ -75,6 +84,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Cheetah (Acinonyx jubatus) female 2.jpg",
         "Cheetah Kruger.jpg",
         "2009-cheetah-sprint.jpg",
         "037 Cheetah close-up in the Serengeti National Park Photo by Giles Laurent.jpg",
@@ -94,7 +104,12 @@
       status: "易危",
       statusLevel: "vu",
       unsplash: ["photo-1456926631375-92c8ce872def"],
-      files: ["Panthera pardus.jpg", "Leopard africa.jpg", "African leopard.jpg"],
+      files: [
+        "Male leopard - Mara.jpg",
+        "Panthera pardus.jpg",
+        "Leopard africa.jpg",
+        "African leopard.jpg"
+      ],
       summary: "会把猎物拖上树的斑点猫科，常被误认成猎豹。",
       story: "花豹比猎豹更强壮，也更善于隐蔽。玫瑰形斑点、粗壮四肢和能上树的前爪，是它们与猎豹最明显的区别。一只花豹可以把相当于自己体重的羚羊吊上枝桠，躲开狮和鬣狗。",
       facts: ["夜行伏击为主", "分布跨非洲与亚洲", "斑点中心常有更深色点"]
@@ -138,7 +153,12 @@
       diet: "植食",
       status: "易危",
       statusLevel: "vu",
-      files: ["Hippopotamus amphibius.jpg", "Hippo pod.jpg", "Hippopotamus in water.jpg"],
+      files: [
+        "Hippo (Hippopotamus amphibius) (16485955207).jpg",
+        "Hippopotamus amphibius.jpg",
+        "Hippo pod.jpg",
+        "Hippopotamus in water.jpg"
+      ],
       summary: "白天把身体沉进河水散热，夜里上岸吃草。",
       story: "河马的眼睛、耳朵和鼻孔都长在头顶，适合只露出水面观察。它们的皮肤会分泌红色保护物质，既防晒也抗菌。看似笨重，却是非洲淡水边最需要保持距离的动物之一。",
       facts: ["可在水下闭气数分钟", "夜间可走数公里觅食", "犬齿用于威慑而非吃肉"]
@@ -152,7 +172,12 @@
       diet: "植食",
       status: "极危",
       statusLevel: "cr",
-      files: ["Diceros bicornis.jpg", "Black rhinoceros.jpg", "Black rhino Namibia.jpg"],
+      files: [
+        "2012 Black Rhinoceros Gemsbokvlakte.jpg",
+        "Diceros bicornis.jpg",
+        "Black rhinoceros.jpg",
+        "Black rhino Namibia.jpg"
+      ],
       summary: "用可活动的上唇撕扯灌木，两只角让它长期处于偷猎阴影里。",
       story: "黑犀比白犀更喜欢灌丛，上唇像一只灵活的手指。角是角蛋白，和我们的指甲同源，却因此被盗猎。今天每一头黑犀的生存，都几乎对应着一整套反盗猎网络。",
       facts: ["IUCN 极危", "上唇适合摘取枝叶", "领域性很强"]
@@ -166,7 +191,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Suricata suricatta.jpg", "Meerkat sentinel.jpg", "Meerkat family.jpg"],
+      files: [
+        "Meerkat (Suricata suricatta).jpg",
+        "Suricata suricatta.jpg",
+        "Meerkat sentinel.jpg",
+        "Meerkat family.jpg"
+      ],
       summary: "沙漠里的哨兵，总有一只站在土丘上望风。",
       story: "狐獴过着高度分工的社群生活。有的负责警戒，有的带领幼崽学习挖蝎子。黑色眼圈减少眩光，让它们能在卡拉哈里的强光下看清远处的鹰。",
       facts: ["轮流放哨", "能对毒素有一定耐受", "洞穴系统复杂"]
@@ -198,7 +228,12 @@
       statusLevel: "en",
       featured: true,
       unsplash: ["photo-1561731216-c3a0dcbb9670"],
-      files: ["Siberian Tiger by Malene Th.jpg", "Panthera tigris altaica.jpg", "Siberian tiger.jpg"],
+      files: [
+        "P.t.altaica Tomak Male.jpg",
+        "Siberian Tiger by Malene Th.jpg",
+        "Panthera tigris altaica.jpg",
+        "Siberian tiger.jpg"
+      ],
       summary: "体型最大的虎亚种，也是温带森林里的顶级猎手。",
       story: "东北虎需要广阔领地追踪鹿和野猪。厚密的被毛和宽大的爪垫让它们能在雪地潜行。一头虎的存在，往往说明整片森林的食物链仍然完整。",
       facts: ["体重可超 300 公斤", "夜行性较强", "每只虎的条纹独一无二"]
@@ -212,7 +247,12 @@
       diet: "植食为主",
       status: "濒危",
       statusLevel: "en",
-      files: ["Ailurus fulgens.jpg", "Red Panda.JPG", "Ailurus fulgens - Karlsruhe Zoo 01.jpg"],
+      files: [
+        "RedPanda SingalilaNationalPark DFrame.jpg",
+        "Ailurus fulgens.jpg",
+        "Red Panda.JPG",
+        "Ailurus fulgens - Karlsruhe Zoo 01.jpg"
+      ],
       summary: "不是大熊猫的幼崽，而是独立的“小猫熊”家族。",
       story: "小熊猫擅长爬树，白天常蜷在枝桠上睡觉，黄昏才出来觅食竹叶与浆果。锈红色的皮毛在苔藓林里像一块移动的秋叶。它们比大熊猫更少被看见，栖息地碎片化也更严重。",
       facts: ["单独成科", "尾巴可保暖与平衡", "分布横断山区至喜马拉雅"]
@@ -226,7 +266,11 @@
       diet: "肉食",
       status: "易危",
       statusLevel: "vu",
-      files: ["Irbis4.JPG", "Snow leopard portrait.jpg", "Uncia uncia.jpg"],
+      files: [
+        "Uncia uncia.jpg",
+        "Irbis4.JPG",
+        "Snow leopard portrait.jpg"
+      ],
       summary: "高原幽灵，尾巴几乎与身体等长，用来在悬崖上保持平衡。",
       story: "雪豹沿着山脊和碎石坡追踪岩羊。灰白斑纹让它们融化在雪和岩石里，因此很少有人亲眼见过野生个体。牧民与雪豹的共存，是中亚保护工作里最关键的课题。",
       facts: ["尾长接近身长", "栖息海拔可超 5000 米", "一次可跃出 15 米"]
@@ -240,7 +284,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Pavo cristatus.jpg", "Indian Peafowl.jpg", "Pavo cristatus Phasianidae.jpg"],
+      files: [
+        "Indian Peacock in Tholpetty Wildlife Sanctuary 01.JPG",
+        "Pavo cristatus.jpg",
+        "Indian Peafowl.jpg",
+        "Pavo cristatus Phasianidae.jpg"
+      ],
       summary: "开屏不是为了人类，而是雄鸟写给雌鸟的情书。",
       story: "蓝孔雀原产印度次大陆。雄鸟尾上覆羽展开时，眼斑会随光线变幻金属绿与宝蓝。开屏消耗能量，也更容易被天敌发现，因此这是一场关于健康与勇气的展示。",
       facts: ["尾屏可超 1.5 米", "叫声高亢传远", "被许多文化视为吉祥"]
@@ -254,7 +303,12 @@
       diet: "杂食",
       status: "易危",
       statusLevel: "vu",
-      files: ["Grus japonensis.jpg", "Grus japonensis -Hokkaido, Japan -several-8 (1).jpg", "Grue du Japon DSCF1360.jpg"],
+      files: [
+        "Grus japonensis 102480624.jpg",
+        "Grus japonensis.jpg",
+        "Grus japonensis -Hokkaido, Japan -several-8 (1).jpg",
+        "Grue du Japon DSCF1360.jpg"
+      ],
       summary: "东亚湿地的白色信使，求偶舞蹈像一场庄重的双人舞。",
       story: "丹顶鹤在浅水中觅食鱼虾和植物根茎。它们对湿地高度依赖，迁徙路线穿过东亚多处河口。头顶那一点朱红，是成鸟才有的标记。",
       facts: ["体长超过 1.4 米", "成对终生相伴", "繁殖于东北湿地"]
@@ -268,7 +322,12 @@
       diet: "植食",
       status: "濒危",
       statusLevel: "en",
-      files: ["Rhinopithecus roxellana.jpg", "Golden snub-nosed monkey.jpg", "Sichuan golden monkey.jpg"],
+      files: [
+        "Golden Snub-nosed Monkeys, Qinling Mountains - China.jpg",
+        "Rhinopithecus roxellana.jpg",
+        "Golden snub-nosed monkey.jpg",
+        "Sichuan golden monkey.jpg"
+      ],
       summary: "仰着蓝色的鼻子，金毛在秦岭和横断山的冷雾里发光。",
       story: "川金丝猴是中国特有的仰鼻猴。扁平的鼻子适应高海拔寒冷，金橙色被毛让它们在落叶林里像一群会移动的阳光。它们的社群很大，常分成小单元又重新聚合。",
       facts: ["中国特有种", "仰鼻适应高寒", "与大熊猫共享部分栖息地"]
@@ -282,7 +341,12 @@
       diet: "植食",
       status: "濒危",
       statusLevel: "en",
-      files: ["Elephas maximus.jpg", "Asian elephant.jpg", "Indian elephant.jpg"],
+      files: [
+        "Elephas maximus (Bandipur).jpg",
+        "Elephas maximus.jpg",
+        "Asian elephant.jpg",
+        "Indian elephant.jpg"
+      ],
       summary: "耳朵比非洲象更小，额头有两个明显的隆起。",
       story: "亚洲象长期与人类共享同一片农田和廊道。它们的门齿通常只有雄性发达，也因此常被误认成“没有象牙的非洲象”。在西双版纳到印度的迁徙路线上，如何让象群走过而不冲突，是亚洲保护里最具体的题目。",
       facts: ["额头双隆起", "雌性多无长牙", "是亚洲体型最大的陆生动物"]
@@ -296,7 +360,12 @@
       diet: "肉食",
       status: "濒危",
       statusLevel: "en",
-      files: ["Nipponia nippon.jpg", "Crested Ibis.jpg", "Toki bird.jpg"],
+      files: [
+        "Nipponia nippon, two, Yang Xian, Shaanxi, China.jpg",
+        "Nipponia nippon.jpg",
+        "Crested Ibis.jpg",
+        "Toki bird.jpg"
+      ],
       summary: "从只剩几只到重新飞回东亚稻田的粉红色精灵。",
       story: "朱鹮曾被认为在中国野外消失，1981 年在陕西洋县被重新发现。它们喜欢在浅水田里啄泥鳅和蛙。今天的恢复既是物种故事，也是稻田还能不能给野生动物留一寸浅水的故事。",
       facts: ["繁殖期面部更红", "曾一度濒临灭绝", "依赖传统稻田湿地"]
@@ -310,7 +379,12 @@
       diet: "植食",
       status: "极危",
       statusLevel: "cr",
-      files: ["Pongo pygmaeus.jpg", "Bornean orangutan.jpg", "Orangutan in tree.jpg"],
+      files: [
+        "OrangutanP1.jpg",
+        "Pongo pygmaeus.jpg",
+        "Bornean orangutan.jpg",
+        "Orangutan in tree.jpg"
+      ],
       summary: "树冠上的红毛智者，几乎把一生都花在枝桠之间。",
       story: "猩猩用长臂在树冠间荡行，会做简易工具取蜂蜜和白蚁。油棕扩张让它们的森林变成碎片。看见一只母猩猩把幼崽抱在胸前穿过残林，等于看见东南亚雨林还剩多少完整。",
       facts: ["IUCN 极危", "会使用简单工具", "树栖性极强"]
@@ -325,7 +399,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1530595467537-0b5996c41f2d"],
-      files: ["Ursus arctos.jpg", "Brown bear.jpg", "Eurasian brown bear.jpg"],
+      files: [
+        "Kamchatka Brown Bear near Dvuhyurtochnoe on 2015-07-23.jpg",
+        "Ursus arctos.jpg",
+        "Brown bear.jpg",
+        "Eurasian brown bear.jpg"
+      ],
       summary: "从欧洲到西伯利亚都能见到的大型杂食者，嗅觉极其敏锐。",
       story: "棕熊会翻石头找昆虫，也会在秋季狂吃浆果和坚果为冬眠储备脂肪。欧洲残存的种群多生活在喀尔巴阡和斯堪的纳维亚的深山里，是荒野还在的证据。",
       facts: ["嗅觉远超猎犬", "冬眠可数月", "领地意识强但不主动攻击"]
@@ -340,7 +419,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1474511323896-e8d5c187d69e"],
-      files: ["Vulpes vulpes sitting.jpg", "Red fox.jpg", "Vulpes vulpes.jpg"],
+      files: [
+        "Fox at the British Wildlife Centre, Newchapel, Surrey - geograph.org.uk - 2221750.jpg",
+        "Vulpes vulpes sitting.jpg",
+        "Red fox.jpg",
+        "Vulpes vulpes.jpg"
+      ],
       summary: "适应力极强的中型犬科，从森林走到了城市夜巷。",
       story: "赤狐会用跳跃扑击捕捉田鼠，耳朵能听见雪下的细微响动。在欧洲许多城镇，它们学会了夜间穿过花园。灵活、谨慎，又带着一点戏剧性的优雅。",
       facts: ["分布最广的犬科之一", "尾尖常为白色", "繁殖期会共用巢穴"]
@@ -354,7 +438,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Lynx lynx2.jpg", "Eurasian lynx.jpg", "Lynx lynx.jpg"],
+      files: [
+        "Lynx lynx poing.jpg",
+        "Lynx lynx2.jpg",
+        "Eurasian lynx.jpg",
+        "Lynx lynx.jpg"
+      ],
       summary: "耳尖簇毛和厚爪垫，是为雪林准备的静音猎手。",
       story: "猞猁喜欢独自埋伏，主要捕食狍和野兔。耳尖的黑色簇毛能帮助判断声音方向。在重新野化的欧洲森林里，它们的回归意味着中型猎物重新有了自然调控者。",
       facts: ["后足宽大适于雪地", "黄昏与夜间活动", "一次可跨越数米"]
@@ -369,7 +458,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1484406566174-9da000fda645"],
-      files: ["Cervus elaphus.jpg", "Red deer stag.jpg", "Cervus elaphus Luc Viatour.jpg"],
+      files: [
+        "Cervus elaphus Luc Viatour 6.jpg",
+        "Cervus elaphus.jpg",
+        "Red deer stag.jpg",
+        "Cervus elaphus Luc Viatour.jpg"
+      ],
       summary: "秋天薄雾山谷里，雄鹿的吼声是求偶季节的号角。",
       story: "马鹿雄性每年重新长出鹿角，并在发情季用角力和长啸争夺群体。它们塑造林缘植被，也是狼和猞猁的重要猎物，把森林食物网连在一起。",
       facts: ["雄性每年换角", "群居雌性带领幼崽", "分布横跨欧亚"]
@@ -383,7 +477,12 @@
       diet: "杂食",
       status: "近危",
       statusLevel: "nt",
-      files: ["Erinaceus europaeus.jpg", "European hedgehog.jpg", "Hedgehog rolled.jpg"],
+      files: [
+        "Erinaceus europaeus (Linnaeus, 1758).jpg",
+        "Erinaceus europaeus.jpg",
+        "European hedgehog.jpg",
+        "Hedgehog rolled.jpg"
+      ],
       summary: "夜里在花园翻落叶的小球，遇险就把自己卷成刺包。",
       story: "刺猬靠嗅觉寻找蠕虫、甲虫和落下的果实。道路和整齐草坪让它们的夜行路线越来越窄。一座留着落叶堆的花园，往往比一块完美草坪更适合这种安静的邻居。",
       facts: ["夜行性", "遇险会蜷成球", "冬眠于落叶堆"]
@@ -397,7 +496,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Castor fiber.jpg", "Eurasian beaver.jpg", "Beaver dam.jpg"],
+      files: [
+        "Beaver pho34.jpg",
+        "Castor fiber.jpg",
+        "Eurasian beaver.jpg",
+        "Beaver dam.jpg"
+      ],
       summary: "会修水坝的工程师，能把一条小溪变成一片湿地。",
       story: "河狸咬倒树木、堆坝拦水，让鱼类、两栖类和鸟类都多了一处栖身之所。欧洲许多国家正在把它们请回河流。一只河狸改变的不只是自己的家，还有整条河谷的形状。",
       facts: ["门齿终生生长", "能改造水文", "夜行且善游泳"]
@@ -411,7 +515,12 @@
       diet: "肉食",
       status: "易危",
       statusLevel: "vu",
-      files: ["Fratercula arctica.jpg", "Atlantic puffin.jpg", "Puffin with fish.jpg"],
+      files: [
+        "Puffin (Fratercula arctica).jpg",
+        "Fratercula arctica.jpg",
+        "Atlantic puffin.jpg",
+        "Puffin with fish.jpg"
+      ],
       summary: "彩色的喙像被海风画过，一次能横衔一排小鱼。",
       story: "海鹦在海崖上的洞穴里繁殖，出海潜捕沙鳗。繁殖季的喙最鲜艳，冬季又会褪去一层。渔业和海洋升温让它们的“鱼串”越来越难凑齐。",
       facts: ["喙能同时衔多条鱼", "在洞穴中繁殖", "冬季远洋生活"]
@@ -426,7 +535,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1553264701-d13871843174"],
-      files: ["Tyto alba close up.jpg", "Barn owl.jpg", "Tyto alba.jpg"],
+      files: [
+        "Tyto alba tylluan wen detail.jpg",
+        "Tyto alba close up.jpg",
+        "Barn owl.jpg",
+        "Tyto alba.jpg"
+      ],
       summary: "心形面盘是天然雷达，让它能在全黑中捕捉田鼠。",
       story: "仓鸮的羽毛边缘呈梳状，飞行几乎无声。它们是农田生态系统的免费捕鼠者。旧谷仓和树洞减少后，人工巢箱成为很多地区把它们留住的方法。",
       facts: ["飞行近乎无声", "面盘汇聚声波", "全球分布最广的鸮类之一"]
@@ -457,7 +571,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1611689342806-086263b657c0"],
-      files: ["Haliaeetus leucocephalus2.jpg", "Bald Eagle Portrait.jpg", "Bald eagle flying.jpg"],
+      files: [
+        "Bald Eagle (Haliaeetus leucocephalus) Kachemak Bay, Alaska.jpg",
+        "Haliaeetus leucocephalus2.jpg",
+        "Bald Eagle Portrait.jpg",
+        "Bald eagle flying.jpg"
+      ],
       summary: "美国的象征猛禽，从农药危机中被保护行动拉了回来。",
       story: "白头海雕喜欢沿着河流筑巨大的巢，一对配偶会多年沿用并不断加高。DDT 曾让它们的蛋壳变薄，禁令与栖息地保护让种群显著恢复，成为现代保育最常被讲述的成功故事之一。",
       facts: ["翼展超过 2 米", "主食鱼类", "成鸟头部才变白"]
@@ -472,7 +591,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1602491453631-e2a5ad90a97c"],
-      files: ["Canis lupus laying.jpg", "Grey wolf.jpg", "Canis lupus.jpg"],
+      files: [
+        "Eurasian wolf 2.jpg",
+        "Canis lupus laying.jpg",
+        "Grey wolf.jpg",
+        "Canis lupus.jpg"
+      ],
       summary: "高度社会性的顶级捕食者，嚎叫用来召集同伴和划分领地。",
       story: "灰狼以家庭式狼群协作围猎鹿和麋。黄石公园重新引入狼之后，植被、河流形态和整个食物网都发生了连锁变化。它们提醒人们：一种动物可以改写一片风景。",
       facts: ["狼群有明确分工", "嚎叫可传数公里", "一次行程能跑出很远"]
@@ -487,7 +611,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1497752531616-c3af1da0d214"],
-      files: ["Procyon lotor 1.jpg", "Common raccoon.jpg", "Raccoon washing.jpg"],
+      files: [
+        "Raccoon in Central Park (35264).jpg",
+        "Procyon lotor 1.jpg",
+        "Common raccoon.jpg",
+        "Raccoon washing.jpg"
+      ],
       summary: "前掌极度灵敏，被称作“长着手的面具侠”。",
       story: "浣熊喜欢在水边翻找甲壳和蛙类，城市里则学会打开垃圾桶。黑眼罩不是伪装罪犯，而是帮助减少眩光。聪明、好奇，也因此更容易和人类生活重叠。",
       facts: ["前掌触觉极发达", "夜行性", "适应城市能力强"]
@@ -501,7 +630,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Alces alces.jpg", "Moose bull.jpg", "Moose in water.jpg"],
+      files: [
+        "Elk-telemark.jpg",
+        "Alces alces.jpg",
+        "Moose bull.jpg",
+        "Moose in water.jpg"
+      ],
       summary: "北半球体型最大的鹿，喜欢站在浅水里啃水草。",
       story: "驼鹿的掌状鹿角像两把展开的铲子。它们能潜入浅湖取食，长腿则适合跨越沼泽。在阿拉斯加和加拿大的针叶林里，看见一头驼鹿从雾里走出来，尺度会突然失真。",
       facts: ["是体型最大的鹿科", "善涉水觅食", "雄性秋季换发情角"]
@@ -515,7 +649,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Puma concolor.jpg", "Cougar portrait.jpg", "Mountain lion.jpg"],
+      files: [
+        "Puma - 49044464307.jpg",
+        "Puma concolor.jpg",
+        "Cougar portrait.jpg",
+        "Mountain lion.jpg"
+      ],
       summary: "从育空到南美都能活下来的多面猎手，没有斑纹却极会隐藏。",
       story: "美洲狮没有狮那样的鬃毛，也没有豹那样的斑点，一身素色反而更利于潜行。它们的分布是西半球猫科里最广的之一。城市边缘偶有目击，说明荒野和郊区之间的边界比地图更模糊。",
       facts: ["跳跃能力极强", "单独狩猎", "分布从加拿大到巴塔哥尼亚"]
@@ -529,7 +668,12 @@
       diet: "肉食",
       status: "濒危",
       statusLevel: "en",
-      files: ["Enhydra lutris.jpg", "Sea otter.jpg", "Sea otter with pup.jpg"],
+      files: [
+        "Sea otter cropped.jpg",
+        "Enhydra lutris.jpg",
+        "Sea otter.jpg",
+        "Sea otter with pup.jpg"
+      ],
       summary: "仰漂在海藻床上，用石头砸开海胆和贝壳。",
       story: "海獭是少见会使用工具的海洋哺乳动物。它们控制海胆，海藻林才不至于被啃光。皮毛极密，所以一旦被油污黏住就很难保暖。一只仰躺的海獭，其实是整片近海森林的守门人。",
       facts: ["毛皮极致浓密", "会用石头开贝", "母獭把幼崽放在胸前"]
@@ -544,7 +688,12 @@
       status: "近危",
       statusLevel: "nt",
       featured: true,
-      files: ["Junior-Jaguar-Belize-Zoo.jpg", "Panthera onca.jpg", "Jaguar walking.jpg"],
+      files: [
+        "Onça-pintada-PE Encontro das Águas-Thiagomarcelcampi(001).jpg",
+        "Junior-Jaguar-Belize-Zoo.jpg",
+        "Panthera onca.jpg",
+        "Jaguar walking.jpg"
+      ],
       summary: "美洲最强的猫科，咬合力足以咬穿龟壳和头骨。",
       story: "美洲豹沿河岸巡猎，既能游泳也能爬树。它们的斑点是玫瑰形，中心常有更小的点。完整的亚马孙河岸对它们至关重要——失去廊道，等于切断一只豹的一生。",
       facts: ["咬合力在猫科中极强", "擅长捕鱼与伏击", "玫瑰斑区别于花豹"]
@@ -558,7 +707,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Bradypus variegatus.jpg", "Three-toed sloth.jpg", "Sloth in tree.jpg"],
+      files: [
+        "Bradypus.jpg",
+        "Bradypus variegatus.jpg",
+        "Three-toed sloth.jpg",
+        "Sloth in tree.jpg"
+      ],
       summary: "把生命节奏降到树叶生长的速度，毛发里甚至住着藻类。",
       story: "树懒一周可能只下树一次，为的是在地面排便。缓慢代谢让它们能靠低热量树叶生存。毛发沟壑里的藻类带来绿色伪装，也形成一座微型雨林。",
       facts: ["每周约下树一次", "毛发可共生藻类", "几乎终生倒挂"]
@@ -572,7 +726,12 @@
       diet: "植食",
       status: "家养",
       statusLevel: "dom",
-      files: ["Vicugna pacos.jpg", "Alpaca portrait.jpg", "Alpacas in Peru.jpg"],
+      files: [
+        "Alpacas Sillustani (pixinn.net).jpg",
+        "Vicugna pacos.jpg",
+        "Alpaca portrait.jpg",
+        "Alpacas in Peru.jpg"
+      ],
       summary: "安第斯高原上的同伴动物，绒毛轻暖，表情永远像在思考人生。",
       story: "羊驼由美洲原住民驯化，用于产毛而非负重。它们以轻柔的脚步走过高海拔草场，对植被破坏较小。今天既是高原文化的一部分，也成为世界各地农场里的温和明星。",
       facts: ["绒毛细软保暖", "社群靠哼鸣交流", "原产安第斯山脉"]
@@ -586,7 +745,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Ara macao.jpg", "Scarlet Macaw.jpg", "Red-and-green macaw.jpg"],
+      files: [
+        "Scarlet macaw (Ara macao cyanopterus) Copan.jpg",
+        "Ara macao.jpg",
+        "Scarlet Macaw.jpg",
+        "Red-and-green macaw.jpg"
+      ],
       summary: "雨林里最响亮的颜色，成对飞行时像两支燃烧的箭。",
       story: "绯红金刚鹦鹉用强喙剖开坚果，成对终身相伴。粘土舔食场是它们补充矿物质的社交场所。宠物贸易曾经重创一些种群，野生个体更需要连片树冠。",
       facts: ["寿命可超 50 年", "成对活动", "喙能打开坚硬种子"]
@@ -600,7 +764,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Capybara (Hydrochoerus hydrochaeris).JPG", "Hydrochoerus hydrochaeris.jpg", "Capybara family.jpg"],
+      files: [
+        "Capybaras (Hydrochoerus hydrachaeris) female and young suckling ... (48427191032).jpg",
+        "Capybara (Hydrochoerus hydrochaeris).JPG",
+        "Hydrochoerus hydrochaeris.jpg",
+        "Capybara family.jpg"
+      ],
       summary: "世界最大的啮齿动物，半水栖，社交能力强到能和几乎所有动物和平共处。",
       story: "水豚眼、耳、鼻都长在头顶，适合只露出水面观察。它们成群在河岸啃草，遇到危险就滑入水中。温和的性格让它们成为南美湿地的“公共沙发”。",
       facts: ["体重可达 60 公斤以上", "趾间有蹼", "高度社群化"]
@@ -614,7 +783,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Ramphastos toco.jpg", "Toco toucan.jpg", "Toucan bill.jpg"],
+      files: [
+        "006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg",
+        "Ramphastos toco.jpg",
+        "Toco toucan.jpg",
+        "Toucan bill.jpg"
+      ],
       summary: "巨大的喙其实很轻，既能取食也能帮助散热。",
       story: "托哥巨嘴鸟的喙由蜂窝状骨质支撑，看起来沉重，拿起来却出奇地轻。它们用喙尖精确地摘取果实，也偶尔吃昆虫和鸟卵。一张招牌大嘴，是雨林广告牌，也是体温调节器。",
       facts: ["喙可辅助散热", "主要以果实为食", "常见于南美林缘"]
@@ -629,7 +803,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1578662996442-48f60103fc96"],
-      files: ["Macropus rufus.jpg", "Red kangaroo.jpg", "Red kangaroo jumping.jpg"],
+      files: [
+        "Red kangaroo - melbourne zoo.jpg",
+        "Macropus rufus.jpg",
+        "Red kangaroo.jpg",
+        "Red kangaroo jumping.jpg"
+      ],
       summary: "用尾巴当第三条腿，跳跃是为了在干热大陆上高效移动。",
       story: "红袋鼠是澳大利亚内陆的象征。雌性育儿袋让幼崽在未发育完全时就能继续生长。干旱来临时，它们能延缓繁殖，把生命节奏交给降雨。",
       facts: ["一次跳跃可超 8 米", "尾巴可支撑身体", "澳洲体型最大的袋鼠"]
@@ -659,8 +838,8 @@
       status: "近危",
       statusLevel: "nt",
       files: [
-        "Platypus.jpg",
         "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale.jpg",
+        "Platypus.jpg",
         "Duck-billed platypus (Ornithorhynchus anatinus) surfacing Scottsdale.jpg"
       ],
       summary: "卵生哺乳动物，喙能感知水中猎物的电场。",
@@ -676,7 +855,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Dromaius novaehollandiae.jpg", "Emu.jpg", "Emu portrait.jpg"],
+      files: [
+        "Emu 1 - Tidbinbilla.jpg",
+        "Dromaius novaehollandiae.jpg",
+        "Emu.jpg",
+        "Emu portrait.jpg"
+      ],
       summary: "澳洲最高的鸟，不会飞，但奔跑起来能追上自行车。",
       story: "鸸鹋由雄鸟孵卵并带领幼雏。它们能长途行走寻找降雨后的新芽。国徽上与袋鼠并列，象征这个大陆上那些选择用双腿而非翅膀征服距离的生命。",
       facts: ["身高约 1.9 米", "雄鸟育幼", "奔跑时速可超 50 公里"]
@@ -690,7 +874,12 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Vombatus ursinus.jpg", "Common wombat.jpg", "Wombat.jpg"],
+      files: [
+        "Vombatus ursinus -Maria Island National Park.jpg",
+        "Vombatus ursinus.jpg",
+        "Common wombat.jpg",
+        "Wombat.jpg"
+      ],
       summary: "方便便的挖掘专家，用软骨臀挡住追进洞穴的天敌。",
       story: "袋熊挖出的地道可以改变一处山坡的排水。立方体粪便帮助它们标记领地，不容易从石头上滚走。看起来圆钝，其实是为地下生活长出来的工程身体。",
       facts: ["粪便接近立方体", "臀部有防护软骨", "挖洞能改变地形"]
@@ -704,7 +893,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Dacelo novaeguineae.jpg", "Laughing kookaburra.jpg", "Kookaburra.jpg"],
+      files: [
+        "Dacelo novaeguineae waterworks.jpg",
+        "Dacelo novaeguineae.jpg",
+        "Laughing kookaburra.jpg",
+        "Kookaburra.jpg"
+      ],
       summary: "黎明时分的大笑声，是澳洲灌木林的闹钟。",
       story: "笑翠鸟并不靠海里捕鱼为生，它们更常从枝头扑向蜥蜴、蛇和昆虫。家族会一起用笑声宣示领地。对旅行者来说，那是第一口澳洲早晨；对鸟自己，那是一份严肃的地契。",
       facts: ["以笑声宣示领地", "主食陆地小动物", "常成家族群居"]
@@ -720,7 +914,12 @@
       statusLevel: "vu",
       featured: true,
       unsplash: ["photo-1589656966895-2d91cc4e1d7b"],
-      files: ["Polar Bear - Alaska.jpg", "Ursus maritimus.jpg", "Polar bear with cub.jpg"],
+      files: [
+        "Polar Bear - Alaska (cropped).jpg",
+        "Polar Bear - Alaska.jpg",
+        "Ursus maritimus.jpg",
+        "Polar bear with cub.jpg"
+      ],
       summary: "海冰上的旅行者，命运与北极夏季冰面的存续绑在一起。",
       story: "北极熊大部分时间在海上度过，等待海豹从呼吸孔出现。毛发中空，皮肤却近乎黑色，为的是锁住每一分光和热。海冰提前融化，意味着更长的饥饿季节。",
       facts: ["最大的陆地食肉动物之一", "嗅觉可隔冰侦测海豹", "被毛下是黑色皮肤"]
@@ -736,7 +935,12 @@
       statusLevel: "nt",
       featured: true,
       unsplash: ["photo-1551986782-d0169b3f8fa7"],
-      files: ["Emperor Penguin Manchot empereur.jpg", "Aptenodytes forsteri.jpg", "Emperor penguins colony.jpg"],
+      files: [
+        "Aptenodytes forsteri -Snow Hill Island, Antarctica -adults and juvenile-8.jpg",
+        "Emperor Penguin Manchot empereur.jpg",
+        "Aptenodytes forsteri.jpg",
+        "Emperor penguins colony.jpg"
+      ],
       summary: "南极冬季由雄鸟孵卵，用身体围成旋转的保温圈。",
       story: "帝企鹅是体型最大的企鹅。雌鸟产卵后出海觅食，雄鸟把卵放在脚背上，盖着育儿袋熬过极夜。群体会缓慢轮转，让外侧的个体也能进入温暖中心。",
       facts: ["潜深可超 500 米", "雄鸟负责冬季孵卵", "身高约 1.2 米"]
@@ -752,7 +956,12 @@
       statusLevel: "en",
       featured: true,
       unsplash: ["photo-1568430462989-44163eb1751f"],
-      files: ["Blue whale.jpg", "Balaenoptera musculus.jpg", "Blue whale fluke.jpg"],
+      files: [
+        "Anim1755 - Flickr - NOAA Photo Library.jpg",
+        "Blue whale.jpg",
+        "Balaenoptera musculus.jpg",
+        "Blue whale fluke.jpg"
+      ],
       summary: "地球上有记录以来最大的动物，一次吞咽就能过滤一整片磷虾云。",
       story: "蓝鲸的心脏有小汽车那么大，低频率歌声能穿越海洋盆地。商业捕鲸曾把它们推向崩溃，禁捕后部分种群缓慢回升。看见一道蓝灰色背脊出水，等于看见地球还愿意把最大的房间留给野生生命。",
       facts: ["体长可超 30 米", "主食磷虾", "歌声能传极远距离"]
@@ -767,7 +976,12 @@
       status: "无危",
       statusLevel: "lc",
       unsplash: ["photo-1607153333879-c174d265f1d2"],
-      files: ["Tursiops truncatus 01.jpg", "Bottlenose dolphin.jpg", "Tursiops truncatus jumping.jpg"],
+      files: [
+        "Tursiops truncatus 01-cropped.jpg",
+        "Tursiops truncatus 01.jpg",
+        "Bottlenose dolphin.jpg",
+        "Tursiops truncatus jumping.jpg"
+      ],
       summary: "会用名字哨音称呼同伴的海洋哺乳动物。",
       story: "宽吻海豚以回声定位猎鱼，也能合作把鱼群赶向浅滩。研究者记录到个体专属的哨音，类似名字。近岸水质、渔网和航运噪音，是它们最日常的威胁。",
       facts: ["使用回声定位", "高度社会性", "分布于全球温带与热带近海"]
@@ -782,7 +996,12 @@
       status: "濒危",
       statusLevel: "en",
       unsplash: ["photo-1437622368342-7a3d73a34c8f"],
-      files: ["Chelonia mydas is going for the air.jpg", "Green turtle swimming.jpg", "Chelonia mydas.jpg"],
+      files: [
+        "Green sea turtle (Chelonia mydas) Moorea.jpg",
+        "Chelonia mydas is going for the air.jpg",
+        "Green turtle swimming.jpg",
+        "Chelonia mydas.jpg"
+      ],
       summary: "穿越整个大洋去产卵的古老航海者，出生海滩往往就是回归地。",
       story: "雌性绿海龟会回到自己出生的沙滩挖坑产卵。幼龟破壳后凭借月光走向海浪，路上充满天敌。保护灯光管制和减少塑料，是把航线还给它们的最小动作。",
       facts: ["迁徙可跨数千公里", "成体主要吃海草", "温度决定幼体性别"]
@@ -811,7 +1030,12 @@
       diet: "肉食",
       status: "数据缺乏",
       statusLevel: "dd",
-      files: ["Orcinus orca.jpg", "Killer whale.jpg", "Killer Whales Hunting a Seal.jpg"],
+      files: [
+        "Killerwhales jumping.jpg",
+        "Orcinus orca.jpg",
+        "Killer whale.jpg",
+        "Killer Whales Hunting a Seal.jpg"
+      ],
       summary: "海洋里最复杂的家族猎手，不同种群有不同的口音和食谱。",
       story: "虎鲸不是一种单一的生活方式：有的专吃鱼，有的协作冲上岸捕海豹。母系家族分享叫声传统，像带着方言的航海部落。它们提醒我们，智慧不必长成人类的样子。",
       facts: ["母系社群", "不同生态型食谱不同", "分布几乎遍及全球海洋"]
@@ -825,7 +1049,12 @@
       diet: "肉食",
       status: "易危",
       statusLevel: "vu",
-      files: ["Odobenus rosmarus.jpg", "Walrus.jpg", "Walrus colony.jpg"],
+      files: [
+        "Walrus in the Russian Arctic National Park, Novaya Zemlya 2015-2.jpg",
+        "Odobenus rosmarus.jpg",
+        "Walrus.jpg",
+        "Walrus colony.jpg"
+      ],
       summary: "用长牙攀上冰块，用触须在海底摸蛤蜊。",
       story: "海象的长牙是特化的犬齿，既能破冰，也能在拥挤的栖息地里确立位置。它们依赖海冰作为休息平台。冰面变少时，成千上万头挤上同一片岸，是北极正在变热的直观画面。",
       facts: ["长牙为特化犬齿", "触须用于海底觅食", "高度依赖海冰"]
@@ -839,7 +1068,12 @@
       diet: "滤食",
       status: "濒危",
       statusLevel: "en",
-      files: ["Manta birostris.jpg", "Giant manta ray.jpg", "Manta ray underwater.jpg"],
+      files: [
+        "Manta birostris-Thailand3.jpg",
+        "Manta birostris.jpg",
+        "Giant manta ray.jpg",
+        "Manta ray underwater.jpg"
+      ],
       summary: "展开像一只会飞的地毯，脑容量在鱼类里出奇地大。",
       story: "巨型蝠鲼用头鳍把浮游生物导入口腔，翻滚、跃出水面，像在写一首慢动作的诗。它们会反复造访清洁站，也因此容易被观光和渔网同时找到。一张翅膀的阴影扫过礁盘，是热带海洋还健康的信号。",
       facts: ["体盘宽可超 7 米", "滤食浮游生物", "具有较复杂的行为"]
@@ -854,8 +1088,8 @@
       status: "无危",
       statusLevel: "lc",
       files: [
-        "Connochaetes taurinus.jpg",
         "Blue Wildebeest, Ngorongoro.jpg",
+        "Connochaetes taurinus.jpg",
         "083 Blue wildebeest dust bathing in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg"
       ],
       summary: "塞伦盖蒂大迁徙的主力，成群渡河时几乎改写整条河谷。",
@@ -871,7 +1105,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Crocuta crocuta.jpg", "Spotted hyena.jpg", "Spotted hyena (Crocuta crocuta).jpg"],
+      files: [
+        "Hiena manchada (Crocuta crocuta), parque nacional Kruger, Sudáfrica, 2018-07-26, DD 22.jpg",
+        "Crocuta crocuta.jpg",
+        "Spotted hyena.jpg",
+        "Spotted hyena (Crocuta crocuta).jpg"
+      ],
       summary: "笑声是社群信号，而不是卡通里的反派配乐。",
       story: "斑鬣狗以母系氏族生活，咬合力强到能拆开大型猎物的骨头。它们既会自己狩猎，也会利用狮群剩下的部分。夜色里的谁谁谁，其实是非洲草原最高效的回收系统之一。",
       facts: ["母系等级分明", "咬合力极强", "能消化骨头"]
@@ -885,7 +1124,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Papio anubis.jpg", "Olive baboon.jpg", "Olive baboon (Papio anubis) with juvenile.jpg"],
+      files: [
+        "Olive baboon Ngorongoro.jpg",
+        "Papio anubis.jpg",
+        "Olive baboon.jpg",
+        "Olive baboon (Papio anubis) with juvenile.jpg"
+      ],
       summary: "会读懂彼此表情的地面灵长类，家族队伍常常绵延整座岩丘。",
       story: "橄榄狒狒用复杂的理毛、对视和叫声维持联盟。雄性有犬齿，却把更多精力花在保护幼崽和协调行进。它们提醒人们：社会能力并不只长在树上。",
       facts: ["高度社会化", "杂食适应力强", "分布跨东非到中非"]
@@ -899,7 +1143,12 @@
       diet: "植食",
       status: "家养",
       statusLevel: "dom",
-      files: ["Camelus bactrianus.jpg", "Bactrian camel.jpg", "Double humped Camel..jpg"],
+      files: [
+        "2011 Trampeltier 1528.JPG",
+        "Camelus bactrianus.jpg",
+        "Bactrian camel.jpg",
+        "Double humped Camel..jpg"
+      ],
       summary: "两座肉峰是移动水库，能走过夏天的戈壁和冬天的暴风雪。",
       story: "双峰驼原产中亚，厚密的被毛冬天御寒，夏天又大片脱落。驼峰储存脂肪而非清水，却让它们在稀疏植被间坚持更久。丝绸之路上的铃声，有很大一部分是这种动物的脚步。",
       facts: ["驼峰储存脂肪", "可忍长期缺水", "适应极端温差"]
@@ -913,7 +1162,11 @@
       diet: "植食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Nara deer.jpg", "Cervus nippon 002.jpg", "Sika Deer, Nara, Japan, 20240819 1541 4775.jpg"],
+      files: [
+        "Cervus nippon 002.jpg",
+        "Nara deer.jpg",
+        "Sika Deer, Nara, Japan, 20240819 1541 4775.jpg"
+      ],
       summary: "夏天一身白斑像落进草丛的梅花，是东亚最熟悉的中型鹿。",
       story: "梅花鹿随季节换装：夏毛红褐带斑，冬毛转为灰褐。在奈良和中国的一些园林里，它们学会了与人共处；在真正的山林中，它们仍是虎和豹的重要猎物。",
       facts: ["夏毛有明显白斑", "雄性每年换角", "原产东亚"]
@@ -927,7 +1180,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Aquila chrysaetos.jpg", "Golden Eagle.jpg", "Steinadler.jpg"],
+      files: [
+        "Maakotka (Aquila chrysaetos) by Jarkko Järvinen.jpg",
+        "Aquila chrysaetos.jpg",
+        "Golden Eagle.jpg",
+        "Steinadler.jpg"
+      ],
       summary: "开阔山地的王者猛禽，金色后颈在逆光里像一圈火焰。",
       story: "金雕用上升气流巡航，俯冲时足以捕捉兔、狐甚至幼羊。它们的巢筑在悬崖，一对配偶会多年沿用。从阿尔泰山到苏格兰高地，看见金雕，等于看见这片天空还没被电线占满。",
       facts: ["翼展可超 2 米", "视力极为敏锐", "分布横跨北半球山地"]
@@ -941,7 +1199,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Arctic fox.jpg", "ArcticFoxSummer.jpg", "Vulpes lagopus in Iceland.jpg"],
+      files: [
+        "Самка песца со спутниковым предатчиком.jpg",
+        "Arctic fox.jpg",
+        "ArcticFoxSummer.jpg",
+        "Vulpes lagopus in Iceland.jpg"
+      ],
       summary: "冬天变成一团白雪，夏天又换上褐色工作服。",
       story: "北极狐的换毛是一份精确的季节日历。圆耳朵、短吻和多毛脚掌把热量锁在体内。旅鼠丰年时它们大量繁殖，歉年则跟随北极熊的足迹捡食。气候变暖让白色伪装提前失效。",
       facts: ["冬季白化夏褐", "脚掌有保温毛", "跟随食物丰度波动"]
@@ -955,7 +1218,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Phoca vitulina.jpg", "Harbor seal.jpg", "Common seal.jpg"],
+      files: [
+        "Common Seal Phoca vitulina.jpg",
+        "Phoca vitulina.jpg",
+        "Harbor seal.jpg",
+        "Common seal.jpg"
+      ],
       summary: "潮间带上的斑点观测者，退潮时整片岩石都会变成休息室。",
       story: "港海豹用敏感的胡须感知水中鱼群，也能在河口和港口生活。幼崽出生后很快就能随母兽入水。船只、渔网和近岸开发，是这种“看起来很亲近”的海洋哺乳动物真正的压力。",
       facts: ["分布最广的海豹之一", "幼崽很快能游泳", "依赖安静的休息滩"]
@@ -969,7 +1237,12 @@
       diet: "杂食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Archilochus colubris.jpg", "Ruby-throated hummingbird.jpg", "Ruby-Throated Hummingbird.png"],
+      files: [
+        "Male Ruby-Throated Hummingbird Hovering.jpg",
+        "Archilochus colubris.jpg",
+        "Ruby-throated hummingbird.jpg",
+        "Ruby-Throated Hummingbird.png"
+      ],
       summary: "能悬停和倒飞的微型发动机，翅膀每秒可扇动数十次。",
       story: "红喉北蜂鸟靠花蜜补充瞬时能量，也吃小昆虫补充蛋白质。雄鸟喉羽在光线合适时会突然变成宝石红。一场跨越墨西哥湾的迁徙，对这样轻的身体来说几乎像一次赌博。",
       facts: ["可悬停与倒飞", "代谢极高", "雄鸟喉部呈宝石红"]
@@ -983,7 +1256,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Eunectes murinus.jpg", "Green-anaconda.jpg", "Anaconda in water.jpg"],
+      files: [
+        "Eunectes murinus 8zz.jpg",
+        "Eunectes murinus.jpg",
+        "Green-anaconda.jpg",
+        "Anaconda in water.jpg"
+      ],
       summary: "世界上最重的蛇之一，把大部分时间交给温暖的水面。",
       story: "绿森蚺善于游泳和埋伏，用身体缠绕使猎物无法呼吸。它们不是童话里的吞人机器，而是湿地食物网里的大型约束者。水位、鱼类和岸边植被，决定一条森蚺能活多久。",
       facts: ["体重可超 200 公斤", "半水栖", "以缠绕方式捕食"]
@@ -997,7 +1275,12 @@
       diet: "肉食",
       status: "无危",
       statusLevel: "lc",
-      files: ["Octopus vulgaris.jpg", "Common octopus.jpg", "Octopus.jpg"],
+      files: [
+        "Octopus vulgaris Merculiano.jpg",
+        "Octopus vulgaris.jpg",
+        "Common octopus.jpg",
+        "Octopus.jpg"
+      ],
       summary: "八条手臂上都有自己的“小脑”，还能瞬间改写皮肤的颜色和质地。",
       story: "普通章鱼会开罐子、模仿岩石、把椰子壳当活动房屋。寿命往往只有一两年，却把智力用在每一次狩猎和每一次逃生上。看见一只章鱼从瓶口挤出来，等于看见柔软也可以是一种武器。",
       facts: ["三颗心脏", "会使用简单工具", "皮肤可快速变色"]
@@ -1030,6 +1313,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Lycaon pictus (Temminck, 1820).jpg",
         "Lycaon pictus.jpg",
         "African wild dog.jpg",
         "Lycaon pictus - Etosha 2015.jpg"
@@ -1052,6 +1336,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Okapia johnstoni -Marwell Wildlife, Hampshire, England-8a.jpg",
         "Okapia johnstoni1.jpg",
         "Okapi.jpg",
         "Okapia johnstoni.jpg"
@@ -1074,6 +1359,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Secretario (Sagittarius serpentarius), parque nacional de Amboseli, Kenia, 2024-05-23, DD 13.jpg",
         "Sagittarius serpentarius.jpg",
         "Secretary bird.jpg",
         "Secretarybird walking.jpg"
@@ -1096,6 +1382,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Mandrill at san francisco zoo.jpg",
         "Mandrill at the San Francisco Zoo.jpg",
         "Mandrillus sphinx.jpg",
         "Mandrill portrait.jpg"
@@ -1118,6 +1405,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "013 Alpha male chimpanzee at Kibale forest National Park Photo by Giles Laurent.jpg",
         "Chimpanzee-02.jpg",
         "Pan troglodytes.jpg",
         "Common chimpanzee.jpg"
@@ -1140,6 +1428,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Crocodylus niloticus6.jpg",
         "Crocodylus niloticus 2.jpg",
         "Nile crocodile.jpg",
         "Nile crocodile basking.jpg"
@@ -1162,6 +1451,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Leptailurus serval 61666728, crop.jpg",
         "Leptailurus serval.jpg",
         "Serval.jpg",
         "Serval cat.jpg"
@@ -1184,6 +1474,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Caracal Caracal-001.jpg",
         "Caracal (Caracal caracal) 2.jpg",
         "Caracal caracal.jpg",
         "Caracal portrait.jpg"
@@ -1206,6 +1497,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Porc formiguer.JPG",
         "Aardvark2.jpg",
         "Orycteropus afer.jpg",
         "Aardvark.jpg"
@@ -1250,6 +1542,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Impala, Chobe National Park, Botswana (51879018932).jpg",
         "Impala (Aepyceros melampus).jpg",
         "Aepyceros melampus.jpg",
         "Male impala.jpg"
@@ -1272,6 +1565,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "African Buffalo.JPG",
         "African buffalo (Syncerus caffer caffer) male.jpg",
         "Syncerus caffer.jpg",
         "Cape buffalo.jpg"
@@ -1294,6 +1588,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Nolan warthog (Phacochoerus africanus africanus).jpg",
         "Warthog, Kruger.jpg",
         "Phacochoerus africanus.jpg",
         "Common warthog.jpg"
@@ -1316,6 +1611,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Grulla coronada cuelligrís (Balearica regulorum), parque nacional de Tarangire, Tanzania, 2024-05-24, DD 15.jpg",
         "Balearica regulorum1.jpg",
         "Grey crowned crane.jpg",
         "Crowned crane dancing.jpg"
@@ -1338,6 +1634,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "North African Ostrich - Masai Ostrich (Struthio camelus massaicus) - Flickr - Lip Kee.jpg",
         "Somali ostrich.jpg",
         "Struthio camelus.jpg",
         "Common ostrich.jpg"
@@ -1360,6 +1657,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Entebbe Shoe Bill Stork.jpg",
         "Shoebill at Ueno Zoo.jpg",
         "Balaeniceps rex.jpg",
         "Shoebill stork.jpg"
@@ -1382,6 +1680,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Fennec Fox Peek.jpg",
         "Fennec Fox.jpg",
         "Vulpes zerda.jpg",
         "Fennec fox portrait.jpg"
@@ -1426,6 +1725,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Rhinoceros unicornis 12zz.jpg",
         "Indian rhinoceros.jpg",
         "Rhinoceros unicornis.jpg",
         "Greater one-horned rhinoceros.jpg"
@@ -1448,6 +1748,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Komodo dragon Varanus komodoensis Ragunan Zoo 2.JPG",
         "Komodo dragon (Varanus komodoensis).jpg",
         "Varanus komodoensis.jpg",
         "Komodo dragon.jpg"
@@ -1470,6 +1771,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Proboscis Monkey in Borneo.jpg",
         "Proboscis monkey (Nasalis larvatus) male.jpg",
         "Nasalis larvatus.jpg",
         "Proboscis monkey.jpg"
@@ -1492,6 +1794,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Malayan Tapir.JPG",
         "Malayan tapir.jpg",
         "Tapirus indicus.jpg",
         "Malayan tapir face.jpg"
@@ -1514,6 +1817,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Clouded Leopard (205918213).jpeg",
         "Clouded leopard.jpg",
         "Neofelis nebulosa.jpg",
         "Clouded leopard portrait.jpg"
@@ -1558,6 +1862,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Binturong in Overloon.jpg",
         "Binturong (Arctictis binturong).jpg",
         "Arctictis binturong.jpg",
         "Binturong.jpg"
@@ -1580,6 +1885,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "Saiga antelope at the Stepnoi Sanctuary.jpg",
         "Saiga tatarica.jpg",
         "Saiga antelope.jpg",
         "Saiga male.jpg"
@@ -1602,6 +1908,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "Markhor Schraubenziege Capra falconeri Zoo Augsburg-02.jpg",
         "Capra falconeri.jpg",
         "Markhor.jpg",
         "Markhor male.jpg"
@@ -1624,6 +1931,7 @@
       status: "极危",
       statusLevel: "cr",
       files: [
+        "Gharial san diego.jpg",
         "Gharial (Gavialis gangeticus) male.jpg",
         "Gavialis gangeticus.jpg",
         "Gharial.jpg"
@@ -1646,6 +1954,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Ophiophagus hannah 381373252.jpg",
         "Ophiophagus hannah 2.jpg",
         "King cobra.jpg",
         "Ophiophagus hannah.jpg"
@@ -1668,6 +1977,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Outloň váhavý - autor Lucie Čižmářová.jpg",
         "Sunda Slow Loris (Nycticebus coucang).jpg",
         "Nycticebus coucang.jpg",
         "Slow loris.jpg"
@@ -1690,6 +2000,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Haliaeetus pelagicus (Rausu, Japan).jpg",
         "Stellers sea-eagle.jpg",
         "Haliaeetus pelagicus.jpg",
         "Steller's sea eagle.jpg"
@@ -1734,6 +2045,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Dhole (Asiatic wild dog) cropped.jpg",
         "Cuon alpinus.jpg",
         "Dhole.jpg",
         "Asiatic wild dog.jpg"
@@ -1756,6 +2068,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Great hornbill Photograph by Shantanu Kuveskar.jpg",
         "Great hornbill (Buceros bicornis) 2.jpg",
         "Buceros bicornis.jpg",
         "Great hornbill.jpg"
@@ -1778,6 +2091,7 @@
       status: "极危",
       statusLevel: "cr",
       files: [
+        "Manis pentadactyla (29054818144).jpg",
         "Manis pentadactyla (Taiwan).jpg",
         "Chinese pangolin.jpg",
         "Manis pentadactyla.jpg"
@@ -1800,6 +2114,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Hylobates lar - Kaeng Krachan WB.jpg",
         "Hylobates lar pair of white and black 01.jpg",
         "Hylobates lar.jpg",
         "Lar gibbon.jpg"
@@ -1822,6 +2137,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "European badger (Meles meles taxus) Drenthe.jpg",
         "Meles meles - British Wildlife Centre.jpg",
         "European badger.jpg",
         "Meles meles.jpg"
@@ -1866,6 +2182,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Wildschwein, Nähe Pulverstampftor.jpg",
         "Sus scrofa scrofa.jpg",
         "Wild boar.jpg",
         "Sus scrofa.jpg"
@@ -1888,6 +2205,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "064 Wild Chamois Parc régional Chasseral Photo by Giles Laurent.jpg",
         "Rupicapra rupicapra.jpg",
         "Chamois.jpg",
         "Alpine chamois.jpg"
@@ -1910,6 +2228,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Bouquetin en Vanoise, été 2023 03.jpg",
         "Alpensteinbock (Capra ibex) male.jpg",
         "Capra ibex.jpg",
         "Alpine ibex.jpg"
@@ -1932,6 +2251,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Alcedo Atthis.jpg",
         "Alcedo atthis -Common kingfisher-8.jpg",
         "Common kingfisher.jpg",
         "Alcedo atthis.jpg"
@@ -1954,6 +2274,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Mute Swan Emsworth2.JPG",
         "Mute swan (Cygnus olor) 2.jpg",
         "Cygnus olor.jpg",
         "Mute swan.jpg"
@@ -1976,6 +2297,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Martes martes crop (cropped).jpg",
         "Martes martes cropped.jpg",
         "European pine marten.jpg",
         "Martes martes.jpg"
@@ -1998,9 +2320,9 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Ciconia ciconia.jpg",
         "Ciconia ciconia 1 (Martin Mecnarowski).jpg",
-        "White stork.jpg",
-        "Ciconia ciconia.jpg"
+        "White stork.jpg"
       ],
       summary: "屋顶上的长途旅行者，归来时会用喙敲出啪嗒啪嗒的欢迎声。",
       story: "白鹳在烟囱和电杆上筑起巨大的巢，冬天则飞向非洲。它们不鸣叫，而是把上下喙敲得像鼓掌。湿草地变成整齐麦田后，鹳必须飞得更远才能装满一嘴食物。",
@@ -2020,6 +2342,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "European bison (Bison bonasus) male Białowieza.jpg",
         "Wisents 4825.jpg",
         "Bison bonasus.jpg",
         "European bison.jpg"
@@ -2042,6 +2365,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Squirrel posing.jpg",
         "Sciurus vulgaris (Linnaeus, 1758).jpg",
         "Red squirrel.jpg",
         "Sciurus vulgaris.jpg"
@@ -2064,6 +2388,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Capreolus (js)11.jpg",
         "Capreolus capreolus 02.jpg",
         "Roe deer.jpg",
         "Capreolus capreolus.jpg"
@@ -2086,6 +2411,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Ursus americanus PO 04.jpg",
         "American black bear (Ursus americanus).jpg",
         "Ursus americanus.jpg",
         "American black bear.jpg"
@@ -2108,8 +2434,8 @@
       status: "无危",
       statusLevel: "lc",
       files: [
-        "Pronghorn (Antilocapra americana).jpg",
         "Antilocapra americana.jpg",
+        "Pronghorn (Antilocapra americana).jpg",
         "Pronghorn.jpg"
       ],
       summary: "西半球跑得最快的陆地动物，角鞘还会脱落。",
@@ -2130,6 +2456,7 @@
       status: "极危",
       statusLevel: "cr",
       files: [
+        "Gymnogyps californianus -San Diego Zoo-8a.jpg",
         "Gymnogyps californianus -Santa Barbara Zoo, California, USA-8a.jpg",
         "California condor.jpg",
         "Gymnogyps californianus.jpg"
@@ -2152,6 +2479,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "American Alligator.jpg",
         "American-Alligator.jpg",
         "Alligator mississippiensis.jpg",
         "American alligator.jpg"
@@ -2174,6 +2502,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Bobcat at Columbus Zoo Boo.jpg",
         "Bobcat2.jpg",
         "Lynx rufus.jpg",
         "Bobcat.jpg"
@@ -2218,6 +2547,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Striped Skunk (Mephitis mephitis) DSC 0030.jpg",
         "Striped Skunk.jpg",
         "Mephitis mephitis.jpg",
         "Striped skunk.jpg"
@@ -2240,6 +2570,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Porcupine NPS11952.jpg",
         "Erethizon dorsatum (North American porcupine).jpg",
         "North American porcupine.jpg",
         "Erethizon dorsatum.jpg"
@@ -2262,6 +2593,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Canada lynx by Michael Zahra.jpg",
         "Canada lynx by Keith Williams.jpg",
         "Lynx canadensis.jpg",
         "Canada lynx.jpg"
@@ -2284,6 +2616,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "North American Beaver, Humber River near Kleinburg, Ontario (39637607974).jpg",
         "American Beaver.jpg",
         "Castor canadensis.jpg",
         "North American beaver.jpg"
@@ -2306,6 +2639,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Bubo virginianus -Canada-6.jpg",
         "Bubo virginianus 06.jpg",
         "Great horned owl.jpg",
         "Bubo virginianus.jpg"
@@ -2350,6 +2684,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Ochotona princeps rockies.JPG",
         "Ochotona princeps.jpg",
         "American pika.jpg",
         "Pika with haypile.jpg"
@@ -2372,6 +2707,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "2025-02-02 04 Greater roadrunner (Geococcyx californianus) - AZ USA.jpg",
         "Greater Roadrunner.jpg",
         "Geococcyx californianus.jpg",
         "Roadrunner.jpg"
@@ -2394,6 +2730,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Myresluger2.jpg",
         "Giant Anteater (Myrmecophaga tridactyla).jpg",
         "Myrmecophaga tridactyla.jpg",
         "Giant anteater.jpg"
@@ -2416,6 +2753,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Spectacled Bear - Houston Zoo.jpg",
         "Tremarctos ornatus -Berlin Zoological Garden-8a.jpg",
         "Spectacled bear.jpg",
         "Tremarctos ornatus.jpg"
@@ -2438,6 +2776,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Vicunacrop.jpg",
         "Vicugna vicugna (peruvian camelid).jpg",
         "Vicuña.jpg",
         "Vicugna vicugna.jpg"
@@ -2482,9 +2821,9 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Alouatta seniculus.jpg",
         "Alouatta seniculus seniculus.jpg",
-        "Red howler monkey.jpg",
-        "Alouatta seniculus.jpg"
+        "Red howler monkey.jpg"
       ],
       summary: "黎明时分能把整片林子叫醒，声音来自喉咙里的骨盒。",
       story: "红吼猴的舌骨扩大成共鸣箱，几公里外都能听见。它们不需要每天走很远，因为叫声已经替它们划好了边界。听起来像怒吼，其实常常只是在说：这棵树有主了。",
@@ -2504,6 +2843,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Spectacled caiman in Costa Rica 01.jpg",
         "Caiman crocodilus -Trinidad-6.jpg",
         "Spectacled caiman.jpg",
         "Caiman crocodilus.jpg"
@@ -2526,6 +2866,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Dendrobates.tinctorius.7037.jpg",
         "Dendrobates tinctorius (Regenbogenwaldsteiger) a.jpg",
         "Dendrobates tinctorius.jpg",
         "Dyeing dart frog.jpg"
@@ -2548,6 +2889,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "204 - Canyon de Colca - Condor des Andes - Juin 2010.JPG",
         "Vultur gryphus -Patagonia, Chile-8.jpg",
         "Andean condor.jpg",
         "Vultur gryphus.jpg"
@@ -2570,6 +2912,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Giantotter.jpg",
         "Giant Otter (Pteronura brasiliensis).jpg",
         "Pteronura brasiliensis.jpg",
         "Giant otter.jpg"
@@ -2592,6 +2935,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Amazonas Flussdelfin Apure Orinoco Duisburg 01.jpg",
         "Inia geoffrensis 2.jpg",
         "Amazon river dolphin.jpg",
         "Pink river dolphin.jpg"
@@ -2614,6 +2958,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Hoatzin (Opisthocomus hoazin) Rio Napo.jpg",
         "Opisthocomus hoazin2.jpg",
         "Hoatzin.jpg",
         "Opisthocomus hoazin.jpg"
@@ -2636,6 +2981,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "Chrysocyon brachyurus no Parque Nacional da Serra da Canastra por Celso Ferrarezi Jr (07).jpg",
         "Maned wolf (Chrysocyon brachyurus) 2.jpg",
         "Chrysocyon brachyurus.jpg",
         "Maned wolf.jpg"
@@ -2658,6 +3004,7 @@
       status: "近危",
       statusLevel: "nt",
       files: [
+        "Poudou IMG 4372.JPG",
         "Pudu puda.jpg",
         "Southern pudú.jpg",
         "Pudu.jpg"
@@ -2680,6 +3027,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Coati roux Amiens 4.jpg",
         "Nasua nasua 2.jpg",
         "South American coati.jpg",
         "Nasua nasua.jpg"
@@ -2702,6 +3050,7 @@
       status: "濒危",
       statusLevel: "en",
       files: [
+        "Sarcophilus harrisii taranna.jpg",
         "Sarcophilus harrisii taronga.jpg",
         "Tasmanian devil.jpg",
         "Sarcophilus harrisii.jpg"
@@ -2724,6 +3073,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Rottnest Quokka 2004 SeanMcClean.jpg",
         "Quokka 1.jpg",
         "Setonix brachyurus.jpg",
         "Quokka.jpg"
@@ -2746,6 +3096,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Wild cassowary walking at Mission Beach IMG 3933.jpg",
         "Casuarius casuarius -Miami Metrozoo, Florida, USA-8a.jpg",
         "Southern cassowary.jpg",
         "Casuarius casuarius.jpg"
@@ -2790,6 +3141,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Wild shortbeak echidna.jpg",
         "Short-beaked echidna in Melbourne Zoo.jpg",
         "Tachyglossus aculeatus.jpg",
         "Short-beaked echidna.jpg"
@@ -2812,6 +3164,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Dingo Side.JPG",
         "Dingo walking.jpg",
         "Canis dingo.jpg",
         "Dingo.jpg"
@@ -2878,6 +3231,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Apteryx mantelli -Rotorua, North Island, New Zealand-8a.jpg",
         "Apteryx mantelli.jpg",
         "North Island brown kiwi.jpg",
         "Kiwi bird.jpg"
@@ -2900,6 +3254,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Superb lyrbird in scrub.jpg",
         "Lyrebird.jpg",
         "Menura novaehollandiae.jpg",
         "Superb lyrebird.jpg"
@@ -2922,6 +3277,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Thornydevil02.jpg",
         "Moloch horridus.jpg",
         "Thorny devil.jpg",
         "Thorny devil lizard.jpg"
@@ -2944,8 +3300,8 @@
       status: "濒危",
       statusLevel: "en",
       files: [
-        "Myrmecobius fasciatus 1.jpg",
         "Numbat.jpg",
+        "Myrmecobius fasciatus 1.jpg",
         "Myrmecobius fasciatus.jpg"
       ],
       summary: "白天活动的条纹食蚁者，舌头可以探进白蚁的隧道。",
@@ -2966,6 +3322,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Нарвал в российской Арктике.jpg",
         "Narwhals breach.jpg",
         "Monodon monoceros.jpg",
         "Narwhal.jpg"
@@ -2988,6 +3345,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Beluga oceanografic.jpg",
         "Beluga25.jpg",
         "Delphinapterus leucas.jpg",
         "Beluga whale.jpg"
@@ -3010,6 +3368,7 @@
       status: "易危",
       statusLevel: "vu",
       files: [
+        "Dermochelys coriacea - Julien Renoult - 12981952.jpeg",
         "LeatherbackTurtle.jpg",
         "Dermochelys coriacea.jpg",
         "Leatherback sea turtle.jpg"
@@ -3032,6 +3391,7 @@
       status: "极危",
       statusLevel: "cr",
       files: [
+        "Sphyrna mokarran at georgia.jpg",
         "Sphyrna mokarran at georgia aquarium.jpg",
         "Great hammerhead.jpg",
         "Sphyrna mokarran.jpg"
@@ -3076,6 +3436,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Humpback whales in singing position.jpg",
         "Humpback stellwagen edit.jpg",
         "Megaptera novaeangliae.jpg",
         "Humpback whale.jpg"
@@ -3098,6 +3459,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Gentoo Penguin at Cooper Bay, South Georgia.jpg",
         "Pygoscelis papua -Brown Bluff.jpg",
         "Gentoo penguin.jpg",
         "Pygoscelis papua.jpg"
@@ -3142,6 +3504,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Kalifornischer Seelöwe (Zalophus californianus), Territorialverhalten.jpg",
         "Zalophus californianus male.jpg",
         "California sea lion.jpg",
         "Zalophus californianus.jpg"
@@ -3164,6 +3527,7 @@
       status: "无危",
       statusLevel: "lc",
       files: [
+        "Clownfisch (Amphiprion ocellaris).jpg",
         "Ocellaris clownfish.JPG",
         "Amphiprion ocellaris.jpg",
         "Clownfish in anemone.jpg"
