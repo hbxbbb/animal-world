@@ -1019,6 +1019,2206 @@
       summary: "翼展可超过三米，几乎把一生都交给南半球的西风带。",
       story: "漂泊信天翁利用动态滑翔，可以连续飞行数小时却几乎不扇翅膀。它们在偏远海岛上成对繁殖，一巢一卵，周期很长。延绳钓误捕曾让许多个体回不了岛。一双巨大的翅膀，需要一整片干净的海。",
       facts: ["翼展可超 3 米", "寿命可超过 50 年", "成对长期相伴"]
+    },
+    {
+      id: "wild-dog",
+      name: "非洲野犬",
+      latin: "Lycaon pictus",
+      region: "非洲",
+      habitat: "稀树草原",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Lycaon pictus.jpg",
+        "African wild dog.jpg",
+        "Lycaon pictus - Etosha 2015.jpg"
+      ],
+      summary: "彩色马赛克般的皮毛，以高度协作的长距离围猎闻名。",
+      story: "非洲野犬几乎从不断骨。它们靠耐力把猎物拖垮，再把肉带回给幼崽和留守的同伴。每一头的斑块图案都不同，像随手泼上的颜料。栖息地碎片化让这种高效猎手比狮子更少被看见。",
+      facts: [
+        "一窝可超 10 只幼崽",
+        "几乎从不攻击人类",
+        "围猎成功率高于狮群"
+      ]
+    },
+    {
+      id: "okapi",
+      name: "㺢㹢狓",
+      latin: "Okapia johnstoni",
+      region: "非洲",
+      habitat: "刚果雨林",
+      diet: "植食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Okapia johnstoni1.jpg",
+        "Okapi.jpg",
+        "Okapia johnstoni.jpg"
+      ],
+      summary: "长颈鹿的森林亲戚，后腿却穿着斑马的条纹袜。",
+      story: "㺢㹢狓在浓密雨林里几乎隐形。长舌能把树叶卷进嘴里，也能把自己的耳朵舔干净。西方科学很晚才确认它的存在，当地猎人却早就认识这种“森林长颈鹿”。",
+      facts: [
+        "舌头可超 35 厘米",
+        "仅分布于刚果盆地",
+        "雌性略大于雄性"
+      ]
+    },
+    {
+      id: "secretarybird",
+      name: "蛇鹫",
+      latin: "Sagittarius serpentarius",
+      region: "非洲",
+      habitat: "开阔草原",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Sagittarius serpentarius.jpg",
+        "Secretary bird.jpg",
+        "Secretarybird walking.jpg"
+      ],
+      summary: "踩着长腿巡视草原的猛禽，会用脚把蛇踩晕。",
+      story: "蛇鹫大部分时间在地面行走，头上的黑羽像别在耳后的羽毛笔。它们用有力的踢击对付蛇、蜥蜴和小型哺乳动物。一对配偶会共用一个巨大的树冠巢。",
+      facts: [
+        "腿长接近 1.3 米",
+        "能踩死毒蛇",
+        "在地面狩猎为主"
+      ]
+    },
+    {
+      id: "mandrill",
+      name: "山魈",
+      latin: "Mandrillus sphinx",
+      region: "非洲",
+      habitat: "热带雨林",
+      diet: "杂食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Mandrill at the San Francisco Zoo.jpg",
+        "Mandrillus sphinx.jpg",
+        "Mandrill portrait.jpg"
+      ],
+      summary: "脸上涂着蓝与朱红的雨林灵长类，雄性颜色越艳地位越高。",
+      story: "山魈的脸不是装饰，而是一份公开的健康报告。优势雄性鼻梁更蓝、臀部更红，也更容易获得交配权。它们在森林地面翻找果实、昆虫和小型脊椎动物。",
+      facts: [
+        "世界上最大的猴类之一",
+        "雄性犬齿很长",
+        "社群可达数百只"
+      ]
+    },
+    {
+      id: "chimpanzee",
+      name: "黑猩猩",
+      latin: "Pan troglodytes",
+      region: "非洲",
+      habitat: "热带森林",
+      diet: "杂食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Chimpanzee-02.jpg",
+        "Pan troglodytes.jpg",
+        "Common chimpanzee.jpg"
+      ],
+      summary: "会用树枝钓白蚁的近亲，社群政治比看起来复杂得多。",
+      story: "黑猩猩会拥抱、争斗、和解，也会把石头当锤子砸开坚果。不同群落有不同的“文化传统”。看见一只猩猩把叶子当海绵蘸水，等于看见工具并不只属于人类。",
+      facts: [
+        "共享约 98% 人类基因",
+        "会制作简单工具",
+        "雄性常组成巡逻队"
+      ]
+    },
+    {
+      id: "nile-crocodile",
+      name: "尼罗鳄",
+      latin: "Crocodylus niloticus",
+      region: "非洲",
+      habitat: "河流 / 湖泊",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Crocodylus niloticus 2.jpg",
+        "Nile crocodile.jpg",
+        "Nile crocodile basking.jpg"
+      ],
+      summary: "非洲淡水里最强的伏击者，常在饮水点只露出眼睛。",
+      story: "尼罗鳄能把角马拖进漩涡，也能用嘴轻轻运送刚孵出的幼鳄。它们在阳光下张开大嘴散热，夜里则变成几乎看不见的暗影。一条河是否安全，有时取决于岸边那双眼睛在不在。",
+      facts: [
+        "体长可超 5 米",
+        "咬合力极强",
+        "雌性守护巢穴"
+      ]
+    },
+    {
+      id: "serval",
+      name: "薮猫",
+      latin: "Leptailurus serval",
+      region: "非洲",
+      habitat: "高草草原",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Leptailurus serval.jpg",
+        "Serval.jpg",
+        "Serval cat.jpg"
+      ],
+      summary: "腿特别长的中型猫科，能在草丛里垂直起跳抓鸟。",
+      story: "薮猫的耳朵像两座雷达站，能听见草根下老鼠的脚步。一次跳跃可以高出两米，把躲在高草里的猎物打到空中。细长的身体让它们看起来像被拉长的家猫。",
+      facts: [
+        "后腿特别长",
+        "一次跳跃可超 2 米",
+        "主要以啮齿类为食"
+      ]
+    },
+    {
+      id: "caracal",
+      name: "狞猫",
+      latin: "Caracal caracal",
+      region: "非洲",
+      habitat: "干旱灌丛",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Caracal (Caracal caracal) 2.jpg",
+        "Caracal caracal.jpg",
+        "Caracal portrait.jpg"
+      ],
+      summary: "耳尖耸着黑簇毛，能在半空中连续拍下飞鸟。",
+      story: "狞猫的弹跳像一张被松开的弓。它们常在黄昏出没，捕鸟、捕兔，也敢挑战比自己更大的猎物。金色皮毛让它们融化在干燥的草坡上。",
+      facts: [
+        "能在空中连拍数只鸟",
+        "夜行性较强",
+        "分布跨非洲到南亚"
+      ]
+    },
+    {
+      id: "aardvark",
+      name: "土豚",
+      latin: "Orycteropus afer",
+      region: "非洲",
+      habitat: "草原 / 疏林",
+      diet: "食虫",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Aardvark2.jpg",
+        "Orycteropus afer.jpg",
+        "Aardvark.jpg"
+      ],
+      summary: "夜里用管状鼻子和黏舌清空一座蚁丘。",
+      story: "土豚的耳朵像驴，鼻子像猪，舌头却是为蚂蚁准备的。一夜之间它们可以挖开数座蚁巢，再换一个洞穴睡觉。许多草原动物会借用土豚挖好的洞躲雨或逃生。",
+      facts: [
+        "一夜可吃数万只蚁",
+        "单独夜行",
+        "洞穴会被别的动物借用"
+      ]
+    },
+    {
+      id: "gemsbok",
+      name: "南非剑羚",
+      latin: "Oryx gazella",
+      region: "非洲",
+      habitat: "干旱草原",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Gemsbok (Oryx gazella) male.jpg",
+        "Oryx gazella.jpg",
+        "Gemsbok etosha.jpg"
+      ],
+      summary: "两支长角几乎笔直，能在几乎无水的沙漠里站稳。",
+      story: "剑羚靠提高体温和浓缩尿液节省水分，因此能穿过纳米布的热浪。雌雄都有长角，对峙时像两支交叉的长矛。看见一群剑羚逆光站着，草原会突然变得像一幅版画。",
+      facts: [
+        "角长可超 80 厘米",
+        "极耐干旱",
+        "能从植物中取水"
+      ]
+    },
+    {
+      id: "impala",
+      name: "黑斑羚",
+      latin: "Aepyceros melampus",
+      region: "非洲",
+      habitat: "疏林草原",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Impala (Aepyceros melampus).jpg",
+        "Aepyceros melampus.jpg",
+        "Male impala.jpg"
+      ],
+      summary: "受惊时会连续弹跳，像在草地上画出一串括号。",
+      story: "黑斑羚是狮、豹、野犬都认识的“日常菜单”，因此进化出了惊人的弹跳和警戒。雄性在繁殖季用角争夺领地，雌性则带着幼崽贴着林地边缘活动。",
+      facts: [
+        "一跳可跨越 10 米",
+        "警戒声很尖",
+        "是许多捕食者的主要猎物"
+      ]
+    },
+    {
+      id: "african-buffalo",
+      name: "非洲水牛",
+      latin: "Syncerus caffer",
+      region: "非洲",
+      habitat: "草原 / 湿地",
+      diet: "植食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "African buffalo (Syncerus caffer caffer) male.jpg",
+        "Syncerus caffer.jpg",
+        "Cape buffalo.jpg"
+      ],
+      summary: "弯角连成头盔的大型牛科，狮群也要掂量再动手。",
+      story: "非洲水牛常被称作草原上最不好惹的植食者。它们会集体反击，甚至把狮子顶开。泥浆浴既降温也驱虫。一群水牛走过，地面会留下深深的蹄印和湿润的气息。",
+      facts: [
+        "角基愈合成“盔甲”",
+        "社群合作防御",
+        "对栖息地水源依赖高"
+      ]
+    },
+    {
+      id: "warthog",
+      name: "疣猪",
+      latin: "Phacochoerus africanus",
+      region: "非洲",
+      habitat: "草原",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Warthog, Kruger.jpg",
+        "Phacochoerus africanus.jpg",
+        "Common warthog.jpg"
+      ],
+      summary: "跪下来用门齿刨根，遇险时倒着退进洞穴。",
+      story: "疣猪脸上的疣状突起能减轻争斗时的撞击。它们喜欢跪着吃草，尾巴竖起像一面小旗。进洞时常常屁股朝里，门牙朝外，以便突然冲出去吓人。",
+      facts: [
+        "会跪地觅食",
+        "借用土豚的洞穴",
+        "奔跑时速可超 50 公里"
+      ]
+    },
+    {
+      id: "crowned-crane",
+      name: "灰冕鹤",
+      latin: "Balearica regulorum",
+      region: "非洲",
+      habitat: "湿地 / 草原",
+      diet: "杂食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Balearica regulorum1.jpg",
+        "Grey crowned crane.jpg",
+        "Crowned crane dancing.jpg"
+      ],
+      summary: "头上顶着金色皇冠，求偶时会鞠躬、跳跃、展翅。",
+      story: "灰冕鹤是少数能栖息在树上的鹤。金色冠羽让它们远远就能被认出来。湿地被开垦成农田后，这种会跳舞的鸟越来越难找到安静的繁殖地。",
+      facts: [
+        "能在树上栖息",
+        "求偶有复杂舞蹈",
+        "依赖浅水湿地"
+      ]
+    },
+    {
+      id: "ostrich",
+      name: "鸵鸟",
+      latin: "Struthio camelus",
+      region: "非洲",
+      habitat: "干旱草原",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Somali ostrich.jpg",
+        "Struthio camelus.jpg",
+        "Common ostrich.jpg"
+      ],
+      summary: "现存最重的鸟，翅膀不能飞，却能把腿变成武器。",
+      story: "鸵鸟把脑袋埋进沙子是误解，它们其实在检查地面的巢。雄鸟的吼声低沉，雌鸟的羽毛更利于伪装。一枚鸵鸟蛋可以让好几个人吃饱，也因此需要被小心看护。",
+      facts: [
+        "身高可超 2.5 米",
+        "奔跑可超 70 公里/小时",
+        "一踢能击退中型捕食者"
+      ]
+    },
+    {
+      id: "shoebill",
+      name: "鲸头鹳",
+      latin: "Balaeniceps rex",
+      region: "非洲",
+      habitat: "纸莎草沼泽",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Shoebill at Ueno Zoo.jpg",
+        "Balaeniceps rex.jpg",
+        "Shoebill stork.jpg"
+      ],
+      summary: "鞋盒一样的巨喙，能把肺鱼从泥水里钳出来。",
+      story: "鲸头鹳常常一动不动站很久，突然才把喙砸进水里。那张看起来史前的脸，其实是为沼泽伏击准备的工具。纸莎草湿地一旦被排干，这种大鸟就无处可站。",
+      facts: [
+        "喙宽像一只鞋",
+        "主要以鱼为食",
+        "繁殖率很低"
+      ]
+    },
+    {
+      id: "fennec",
+      name: "耳廓狐",
+      latin: "Vulpes zerda",
+      region: "非洲",
+      habitat: "沙漠",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Fennec Fox.jpg",
+        "Vulpes zerda.jpg",
+        "Fennec fox portrait.jpg"
+      ],
+      summary: "世界上耳朵最大的狐狸，靠散热在撒哈拉活下来。",
+      story: "耳廓狐的耳朵不仅能听沙下甲虫的动静，也能把热散掉。厚密的足毛让它们走在白天的沙子上不至于烫伤。夜里，这对大耳朵会在月光下变成两片半透明的叶子。",
+      facts: [
+        "耳长可接近 15 厘米",
+        "夜行挖洞",
+        "几乎不需要饮水"
+      ]
+    },
+    {
+      id: "ring-tailed-lemur",
+      name: "环尾狐猴",
+      latin: "Lemur catta",
+      region: "非洲",
+      habitat: "干旱林 / 灌丛",
+      diet: "植食为主",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Lemur catta 001.jpg",
+        "Ring-tailed lemur.jpg",
+        "Lemur catta sunbathing.jpg"
+      ],
+      summary: "马达加斯加的条纹尾巴旗帜，晒太阳时像在做集体瑜伽。",
+      story: "环尾狐猴用竖起的尾巴在灌丛里互相报位置。清晨它们会敞开胸膛晒太阳，补充一夜的凉意。雌性主导社群，这在灵长类里并不常见。森林被砍成农田后，它们的队伍越来越短。",
+      facts: [
+        "尾巴有 13 道以上环纹",
+        "雌性主导",
+        "仅分布于马达加斯加"
+      ]
+    },
+    {
+      id: "indian-rhino",
+      name: "印度犀",
+      latin: "Rhinoceros unicornis",
+      region: "亚洲",
+      habitat: "冲积平原 / 草原",
+      diet: "植食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Indian rhinoceros.jpg",
+        "Rhinoceros unicornis.jpg",
+        "Greater one-horned rhinoceros.jpg"
+      ],
+      summary: "身上像穿着一副铠甲，只在鼻梁上竖着一只角。",
+      story: "印度犀的皮肤褶皱让它看起来像一件活动的盔甲。它们喜欢在泥塘里打滚，以避开蚊虫和暑热。保护工作让它们从更危险的边缘回升，但仍挤在几片河岸栖息地里。",
+      facts: [
+        "单角",
+        "皮肤有明显褶皱",
+        "主要分布于印度与尼泊尔"
+      ]
+    },
+    {
+      id: "komodo",
+      name: "科莫多巨蜥",
+      latin: "Varanus komodoensis",
+      region: "亚洲",
+      habitat: "干燥疏林",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Komodo dragon (Varanus komodoensis).jpg",
+        "Varanus komodoensis.jpg",
+        "Komodo dragon.jpg"
+      ],
+      summary: "世界上最大的蜥蜴，一口咬伤就能让猎物慢慢失去力气。",
+      story: "科莫多巨蜥靠伏击和有毒的唾液成分让大型猎物失血虚弱。它们会游泳到邻近小岛，也会吃腐肉。游客眼里的“龙”，对本地鹿和野猪来说是必须绕开的阴影。",
+      facts: [
+        "体长可超 3 米",
+        "会游泳",
+        "仅分布于印尼部分岛屿"
+      ]
+    },
+    {
+      id: "proboscis-monkey",
+      name: "长鼻猴",
+      latin: "Nasalis larvatus",
+      region: "亚洲",
+      habitat: "红树林 / 河岸林",
+      diet: "植食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Proboscis monkey (Nasalis larvatus) male.jpg",
+        "Nasalis larvatus.jpg",
+        "Proboscis monkey.jpg"
+      ],
+      summary: "雄性挂着一只可以当共鸣箱的大鼻子，也是游泳好手。",
+      story: "长鼻猴的鼻子越大，叫声越响，对雌性也越有吸引力。它们在河岸林和红树林间跳跃，落水也不慌。红树林被改成虾塘后，这种滑稽又珍贵的面孔越来越少。",
+      facts: [
+        "雄性鼻可下垂过嘴",
+        "擅长游泳",
+        "仅分布于婆罗洲"
+      ]
+    },
+    {
+      id: "malayan-tapir",
+      name: "马来貘",
+      latin: "Tapirus indicus",
+      region: "亚洲",
+      habitat: "热带雨林",
+      diet: "植食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Malayan tapir.jpg",
+        "Tapirus indicus.jpg",
+        "Malayan tapir face.jpg"
+      ],
+      summary: "黑白两截的“活化石”，夜里在雨林里像一块移动的拼图。",
+      story: "马来貘的颜色不是为了好看，而是为了在月光斑驳的林下打断轮廓。它们用灵活的短鼻翻找嫩叶和果实。公路和棕榈园把连续的森林切成岛屿，貘就只能在夹缝里走路。",
+      facts: [
+        "亚洲唯一的貘",
+        "幼体有条纹和斑点",
+        "夜行性较强"
+      ]
+    },
+    {
+      id: "clouded-leopard",
+      name: "云豹",
+      latin: "Neofelis nebulosa",
+      region: "亚洲",
+      habitat: "热带 / 亚热带森林",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Clouded leopard.jpg",
+        "Neofelis nebulosa.jpg",
+        "Clouded leopard portrait.jpg"
+      ],
+      summary: "云状斑纹的树栖猫科，犬齿在比例上长得惊人。",
+      story: "云豹能头朝下爬树，脚踝灵活得像在林冠走钢丝。巨大的犬齿让它能对付中型有蹄类。因为太会隐藏，野外摄影师常常只拍到一段花尾巴。",
+      facts: [
+        "犬齿相对体型很长",
+        "极善于爬树",
+        "分布从喜马拉雅到东南亚"
+      ]
+    },
+    {
+      id: "japanese-macaque",
+      name: "日本猕猴",
+      latin: "Macaca fuscata",
+      region: "亚洲",
+      habitat: "山地森林 / 温泉",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Macaca fuscata fuscata1.jpg",
+        "Japanese macaque.jpg",
+        "Snow monkey onsen.jpg"
+      ],
+      summary: "会泡温泉的雪猴，也是分布最北的非人灵长类。",
+      story: "日本猕猴在冬天把身体沉进温泉，只露出通红的脸。它们会洗红薯、扔雪球，不同群体有不同习惯。一张泡汤的照片背后，是对严寒和社群秩序的适应。",
+      facts: [
+        "最北的野生猴类",
+        "会使用温泉",
+        "有明显的群体文化"
+      ]
+    },
+    {
+      id: "binturong",
+      name: "熊狸",
+      latin: "Arctictis binturong",
+      region: "亚洲",
+      habitat: "热带雨林",
+      diet: "杂食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Binturong (Arctictis binturong).jpg",
+        "Arctictis binturong.jpg",
+        "Binturong.jpg"
+      ],
+      summary: "长着能抓树枝的尾巴，气味却像一袋爆米花。",
+      story: "熊狸用缠尾在树冠间移动，吃果实也吃小动物。它们的气味腺散发出类似奶油爆米花的味道，是在树林里留下的化学签名。失去高大乔木后，这种行动缓慢的夜行者很难换地方。",
+      facts: [
+        "具缠绕尾",
+        "气味像爆米花",
+        "帮助传播榕树种子"
+      ]
+    },
+    {
+      id: "saiga",
+      name: "高鼻羚羊",
+      latin: "Saiga tatarica",
+      region: "亚洲",
+      habitat: "草原 / 半荒漠",
+      diet: "植食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Saiga tatarica.jpg",
+        "Saiga antelope.jpg",
+        "Saiga male.jpg"
+      ],
+      summary: "鼓起的鼻子像一只过滤器，能应付草原上的沙尘和寒气。",
+      story: "高鼻羚羊的鼻子在夏天滤尘，冬天预热空气。迁徙季节，土黄色的队伍会把整片草原染成流动的影子。疾病、偷猎和围栏曾让它们在短时间里大量消失。",
+      facts: [
+        "鼻子可过滤沙尘",
+        "曾经历剧烈数量波动",
+        "雄性有半透明的角"
+      ]
+    },
+    {
+      id: "markhor",
+      name: "捻角山羊",
+      latin: "Capra falconeri",
+      region: "亚洲",
+      habitat: "干燥山地",
+      diet: "植食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Capra falconeri.jpg",
+        "Markhor.jpg",
+        "Markhor male.jpg"
+      ],
+      summary: "螺旋角像两根拧紧的麻花，站在悬崖上像一尊雕塑。",
+      story: "捻角山羊在中亚的岩石山上寻找稀疏灌木。雄性的螺旋角是地位的展示，也是摄影师最想对准的线条。社区保护让一些种群回升，证明盗猎并不是唯一结局。",
+      facts: [
+        "角呈明显螺旋",
+        "善于攀岩",
+        "巴基斯坦等地的旗舰物种"
+      ]
+    },
+    {
+      id: "gharial",
+      name: "恒河鳄",
+      latin: "Gavialis gangeticus",
+      region: "亚洲",
+      habitat: "大型河流",
+      diet: "肉食",
+      status: "极危",
+      statusLevel: "cr",
+      files: [
+        "Gharial (Gavialis gangeticus) male.jpg",
+        "Gavialis gangeticus.jpg",
+        "Gharial.jpg"
+      ],
+      summary: "细长的吻部像一把夹鱼钳，雄性鼻尖还顶着一只土罐。",
+      story: "恒河鳄几乎只吃鱼，那张过分细长的嘴不适合撕咬大型哺乳动物。雄性鼻端的“罐状”突起能让求偶叫声更响。水坝、渔网和沙滩被占用，让这种河神般的爬行动物只剩几个繁殖点。",
+      facts: [
+        "吻部极度细长",
+        "雄性鼻端有球状突起",
+        "依赖不受干扰的沙洲"
+      ]
+    },
+    {
+      id: "king-cobra",
+      name: "眼镜王蛇",
+      latin: "Ophiophagus hannah",
+      region: "亚洲",
+      habitat: "森林",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Ophiophagus hannah 2.jpg",
+        "King cobra.jpg",
+        "Ophiophagus hannah.jpg"
+      ],
+      summary: "世界上最长的毒蛇，会发出低沉的“咕噜”警告。",
+      story: "眼镜王蛇主要吃其他蛇，包括眼镜蛇。受惊时会把身体前段竖起，发出不同于嘶嘶的低鸣。雌性会堆起树叶巢守护卵，这在蛇类里很少见。",
+      facts: [
+        "体长可超 5 米",
+        "主要以蛇为食",
+        "会筑巢护卵"
+      ]
+    },
+    {
+      id: "slow-loris",
+      name: "懒猴",
+      latin: "Nycticebus coucang",
+      region: "亚洲",
+      habitat: "热带森林",
+      diet: "杂食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Sunda Slow Loris (Nycticebus coucang).jpg",
+        "Nycticebus coucang.jpg",
+        "Slow loris.jpg"
+      ],
+      summary: "行动慢，却是少数具有毒性的灵长类。",
+      story: "懒猴用舌头舔肘部的毒腺，再把毒涂到牙齿上。圆眼睛适合夜视，却让它们成了宠物贸易的目标。被强行剪牙的个体，往往回不了森林。",
+      facts: [
+        "具毒性唾液",
+        "完全树栖夜行",
+        "宠物贸易是主要威胁"
+      ]
+    },
+    {
+      id: "stellers-sea-eagle",
+      name: "虎头海雕",
+      latin: "Haliaeetus pelagicus",
+      region: "亚洲",
+      habitat: "海岸 / 河口",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Stellers sea-eagle.jpg",
+        "Haliaeetus pelagicus.jpg",
+        "Steller's sea eagle.jpg"
+      ],
+      summary: "喙和体型都大得过分的海雕，冬天会沿着流冰找鱼。",
+      story: "虎头海雕站在流冰上时，像一尊镶了金边的雕塑。巨大的黄色喙能撕开鲑鱼。它们在俄远东繁殖，冬季南下到北海道的渔村附近，也把人类的渔获算进菜单。",
+      facts: [
+        "世界上最重的雕之一",
+        "冬季常出现在流冰区",
+        "以鱼为主食"
+      ]
+    },
+    {
+      id: "yak",
+      name: "牦牛",
+      latin: "Bos mutus",
+      region: "亚洲",
+      habitat: "高原草地",
+      diet: "植食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Wild yak (Bos mutus).jpg",
+        "Bos mutus.jpg",
+        "Yak on plateau.jpg"
+      ],
+      summary: "青藏高原的黑色引擎，野牦牛比家牦牛大得多也猛得多。",
+      story: "野牦牛用厚密的裙状长毛对抗高海拔寒风。它们能在氧气稀薄的草甸上刨雪找食。家牦牛改变了高原人的生活，野牦牛却仍需要不被打扰的广阔牧场。",
+      facts: [
+        "栖息海拔可超 5000 米",
+        "野牦牛体型更大",
+        "长毛可垂至地面"
+      ]
+    },
+    {
+      id: "dhole",
+      name: "豺",
+      latin: "Cuon alpinus",
+      region: "亚洲",
+      habitat: "森林 / 草地",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Cuon alpinus.jpg",
+        "Dhole.jpg",
+        "Asiatic wild dog.jpg"
+      ],
+      summary: "会吹口哨联络的亚洲野犬，团队作战能放倒比自己大的鹿。",
+      story: "豺的叫声不像狼那么长嚎，更像哨音和咕哝。一群豺能把水鹿围到水边。森林破碎和家犬疾病，让这种很少被童话写到的猎手悄悄消失。",
+      facts: [
+        "以哨音交流",
+        "高度社群性",
+        "分布曾横跨亚洲多地"
+      ]
+    },
+    {
+      id: "great-hornbill",
+      name: "双角犀鸟",
+      latin: "Buceros bicornis",
+      region: "亚洲",
+      habitat: "高大雨林",
+      diet: "杂食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Great hornbill (Buceros bicornis) 2.jpg",
+        "Buceros bicornis.jpg",
+        "Great hornbill.jpg"
+      ],
+      summary: "盔突像一顶头盔，繁殖时雄鸟会把雌鸟封进树洞。",
+      story: "双角犀鸟需要巨大的老树才能找到合适的巢洞。雌鸟产卵后被封在洞里，只留一条缝接受雄鸟送来的果实。砍掉一棵营巢树，等于取消一整季的繁殖。",
+      facts: [
+        "依赖古老巨树",
+        "雌鸟孵卵时被封洞",
+        "以榕果为重要食物"
+      ]
+    },
+    {
+      id: "chinese-pangolin",
+      name: "中华穿山甲",
+      latin: "Manis pentadactyla",
+      region: "亚洲",
+      habitat: "森林 / 丘陵",
+      diet: "食虫",
+      status: "极危",
+      statusLevel: "cr",
+      files: [
+        "Manis pentadactyla (Taiwan).jpg",
+        "Chinese pangolin.jpg",
+        "Manis pentadactyla.jpg"
+      ],
+      summary: "身上全是角质鳞片，遇险就卷成一颗无法下口的球。",
+      story: "中华穿山甲用长黏舌深入蚁巢，一夜可以清空大量蚂蚁和白蚁。鳞片让它看起来像一棵会走路的松果。因为鳞片和肉被盗猎，它成了世界上最濒危的哺乳动物之一。",
+      facts: [
+        "全身被覆角质鳞",
+        "无齿靠长舌取食",
+        "盗猎是最大威胁"
+      ]
+    },
+    {
+      id: "lar-gibbon",
+      name: "白掌长臂猿",
+      latin: "Hylobates lar",
+      region: "亚洲",
+      habitat: "热带雨林",
+      diet: "植食为主",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Hylobates lar pair of white and black 01.jpg",
+        "Hylobates lar.jpg",
+        "Lar gibbon.jpg"
+      ],
+      summary: "用手臂荡过树冠的歌手，晨鸣能划定整片林子的边界。",
+      story: "白掌长臂猿成对生活，清晨的二重唱既是爱情也是领地声明。它们的手臂比腿更适合飞翔般的摆荡。没有连续树冠，歌声就会在空地上断掉。",
+      facts: [
+        "以臂荡方式移动",
+        "成对晨鸣",
+        "树冠断裂会限制活动"
+      ]
+    },
+    {
+      id: "european-badger",
+      name: "欧洲獾",
+      latin: "Meles meles",
+      region: "欧洲",
+      habitat: "林地 / 田野",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Meles meles - British Wildlife Centre.jpg",
+        "European badger.jpg",
+        "Meles meles.jpg"
+      ],
+      summary: "黑白脸谱的掘地工，一座獾穴可以住上好几代。",
+      story: "欧洲獾在夜色里成群出洞，翻找蚯蚓、浆果和谷物。它们的地下城市有卧室、厕所和逃生通道。道路把领地切开后，很多獾死在回家的路上。",
+      facts: [
+        "穴居系统复杂",
+        "以蚯蚓为重要食物",
+        "社群世代沿用旧穴"
+      ]
+    },
+    {
+      id: "eurasian-otter",
+      name: "欧亚水獭",
+      latin: "Lutra lutra",
+      region: "欧洲",
+      habitat: "河流 / 海岸",
+      diet: "肉食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Lutra lutra 3.jpg",
+        "Eurasian otter.jpg",
+        "Lutra lutra.jpg"
+      ],
+      summary: "把一条河当成跑道的流线型猎手，粪便可被当作“气味明信片”。",
+      story: "欧亚水獭需要干净、连通的水系。它们在石头上留下粪便，告诉后来者谁刚经过。水质改善后一些河流重新出现了水獭，说明一条河是否健康，有时能从一串湿脚印看出来。",
+      facts: [
+        "依赖清洁水体",
+        "领地以气味标记",
+        "能在淡水与部分海岸生活"
+      ]
+    },
+    {
+      id: "wild-boar",
+      name: "野猪",
+      latin: "Sus scrofa",
+      region: "欧洲",
+      habitat: "森林 / 农田边缘",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Sus scrofa scrofa.jpg",
+        "Wild boar.jpg",
+        "Sus scrofa.jpg"
+      ],
+      summary: "用鼻子当犁的森林翻土机，也是许多猛兽的重要猎物。",
+      story: "野猪把落叶层翻得像被犁过的田，顺带播种和觅食。母猪带着条纹幼崽成群行动，雄性则更独来独往。它们适应城市绿地的速度，让许多欧洲郊区重新认识了“野生”。",
+      facts: [
+        "嗅觉极敏锐",
+        "幼崽有条纹",
+        "食谱极广"
+      ]
+    },
+    {
+      id: "chamois",
+      name: "臆羚",
+      latin: "Rupicapra rupicapra",
+      region: "欧洲",
+      habitat: "高山草地 / 岩壁",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Rupicapra rupicapra.jpg",
+        "Chamois.jpg",
+        "Alpine chamois.jpg"
+      ],
+      summary: "钩状短角的山地羚羊，能在几乎直立的岩壁上转身。",
+      story: "臆羚夏天上到高山草甸，冬天下到林线寻找食物。它们的蹄缘锐利，适合抓住岩石裂缝。登山者眼中的一个小点，往往已经在观察你很久。",
+      facts: [
+        "蹄适应攀岩",
+        "季节性垂直迁移",
+        "角呈倒钩状"
+      ]
+    },
+    {
+      id: "alpine-ibex",
+      name: "阿尔卑斯野山羊",
+      latin: "Capra ibex",
+      region: "欧洲",
+      habitat: "高山岩壁",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Alpensteinbock (Capra ibex) male.jpg",
+        "Capra ibex.jpg",
+        "Alpine ibex.jpg"
+      ],
+      summary: "弯刀般的角能扫过自己的背，脚步却能走在水坝的斜面上。",
+      story: "阿尔卑斯野山羊曾因狩猎几乎从阿尔卑斯消失，又靠再引入回来。雄性的角一年年加一圈，像一本写在头上的日历。看见它们站在近乎垂直的混凝土坝上，会重新理解“脚力”。",
+      facts: [
+        "曾濒临消失后恢复",
+        "雄性角可超 1 米",
+        "能在陡峭人工表面上行走"
+      ]
+    },
+    {
+      id: "kingfisher",
+      name: "普通翠鸟",
+      latin: "Alcedo atthis",
+      region: "欧洲",
+      habitat: "溪流 / 河岸",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Alcedo atthis -Common kingfisher-8.jpg",
+        "Common kingfisher.jpg",
+        "Alcedo atthis.jpg"
+      ],
+      summary: "把一条河压缩成一颗蓝色宝石，俯冲时几乎不溅起多余的水。",
+      story: "普通翠鸟需要清澈的水才能看清小鱼。它们在土岸上挖隧道做巢，入口往往藏在根系后面。河岸被混凝土化之后，蓝色就会从这条河上消失。",
+      facts: [
+        "依赖清澈浅水",
+        "在土岸挖巢",
+        "飞起来像一道蓝光"
+      ]
+    },
+    {
+      id: "mute-swan",
+      name: "疣鼻天鹅",
+      latin: "Cygnus olor",
+      region: "欧洲",
+      habitat: "湖泊 / 河流",
+      diet: "植食为主",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Mute swan (Cygnus olor) 2.jpg",
+        "Cygnus olor.jpg",
+        "Mute swan.jpg"
+      ],
+      summary: "弯曲的脖颈像问号，其实并不真的“哑巴”，只是很少高声叫。",
+      story: "疣鼻天鹅用翅膀拍打水面宣示领地，求偶时会面对面鞠躬。嘴基的黑色疣是成鸟的标记。它们既是公园里的风景，也是湿地生态是否宽裕的指标。",
+      facts: [
+        "成鸟喙基有黑疣",
+        "领地意识强",
+        "以水生植物为主食"
+      ]
+    },
+    {
+      id: "pine-marten",
+      name: "松貂",
+      latin: "Martes martes",
+      region: "欧洲",
+      habitat: "针叶林 / 混交林",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Martes martes cropped.jpg",
+        "European pine marten.jpg",
+        "Martes martes.jpg"
+      ],
+      summary: "在树干上跑得像一滴融化的蜂蜜，也会从灰松鼠手里抢坚果。",
+      story: "松貂是森林里的中型猎手，吃鼠、鸟卵、浆果和腐肉。重新回到一些林地后，它们甚至帮助压低了入侵的灰松鼠数量。一条黄色喉斑，是在树荫里辨认它的钥匙。",
+      facts: [
+        "喉部有黄斑",
+        "善于树栖奔走",
+        "有助于控制灰松鼠"
+      ]
+    },
+    {
+      id: "white-stork",
+      name: "白鹳",
+      latin: "Ciconia ciconia",
+      region: "欧洲",
+      habitat: "农田 / 湿地",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Ciconia ciconia 1 (Martin Mecnarowski).jpg",
+        "White stork.jpg",
+        "Ciconia ciconia.jpg"
+      ],
+      summary: "屋顶上的长途旅行者，归来时会用喙敲出啪嗒啪嗒的欢迎声。",
+      story: "白鹳在烟囱和电杆上筑起巨大的巢，冬天则飞向非洲。它们不鸣叫，而是把上下喙敲得像鼓掌。湿草地变成整齐麦田后，鹳必须飞得更远才能装满一嘴食物。",
+      facts: [
+        "迁徙距离很长",
+        "以喙叩击交流",
+        "喜在人工建筑物上筑巢"
+      ]
+    },
+    {
+      id: "european-bison",
+      name: "欧洲野牛",
+      latin: "Bison bonasus",
+      region: "欧洲",
+      habitat: "森林 / 林间空地",
+      diet: "植食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Wisents 4825.jpg",
+        "Bison bonasus.jpg",
+        "European bison.jpg"
+      ],
+      summary: "欧洲最重的陆地野生动物，从只剩圈养个体的边缘走了回来。",
+      story: "欧洲野牛在一战之后几乎只存在于动物园。再引入计划让它们重新踏进波兰和东欧的森林。一群野牛走过，灌木会被折断，空地会被打开，其他物种也跟着回来。",
+      facts: [
+        "曾在野外灭绝后被再引入",
+        "欧洲最重的野生陆生动物",
+        "需要广阔林地"
+      ]
+    },
+    {
+      id: "red-squirrel",
+      name: "欧亚红松鼠",
+      latin: "Sciurus vulgaris",
+      region: "欧洲",
+      habitat: "针叶林 / 公园",
+      diet: "植食为主",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Sciurus vulgaris (Linnaeus, 1758).jpg",
+        "Red squirrel.jpg",
+        "Sciurus vulgaris.jpg"
+      ],
+      summary: "耳尖有簇毛的红色闪光，秋天会把松果藏进上百个地点。",
+      story: "欧亚红松鼠靠空间记忆找回自己的贮藏。灰松鼠传入后，竞争和疾病让很多英格兰林地只剩下后者。看见一只红松鼠竖着尾巴跑过树干，等于看见这片林子还记得旧住客。",
+      facts: [
+        "耳尖有季节性簇毛",
+        "会贮藏种子",
+        "易受灰松鼠竞争影响"
+      ]
+    },
+    {
+      id: "roe-deer",
+      name: "西方狍",
+      latin: "Capreolus capreolus",
+      region: "欧洲",
+      habitat: "林缘 / 农田",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Capreolus capreolus 02.jpg",
+        "Roe deer.jpg",
+        "Capreolus capreolus.jpg"
+      ],
+      summary: "欧洲最常见的小型鹿，晨雾里只露出一对竖耳和一张白臀斑。",
+      story: "西方狍喜欢林缘，因为那里既有掩护也有嫩草。雄性在夏季用短角和气味标记灌木。黄昏开车经过田野，最容易看见的野生动物往往就是它。",
+      facts: [
+        "臀斑呈白色",
+        "雄性角分叉较少",
+        "适应农业景观"
+      ]
+    },
+    {
+      id: "american-black-bear",
+      name: "美洲黑熊",
+      latin: "Ursus americanus",
+      region: "北美洲",
+      habitat: "森林",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "American black bear (Ursus americanus).jpg",
+        "Ursus americanus.jpg",
+        "American black bear.jpg"
+      ],
+      summary: "颜色其实从黑到棕到白都有，是北美最常见的熊。",
+      story: "美洲黑熊大部分时间在找浆果、坚果和昆虫，偶尔才动荤。它们会爬树，也会记住哪条小径通向垃圾箱。学会与熊保持距离，是很多北美小镇的公共课。",
+      facts: [
+        "善于爬树",
+        "食谱随季节大变",
+        "体色并不都是黑色"
+      ]
+    },
+    {
+      id: "pronghorn",
+      name: "叉角羚",
+      latin: "Antilocapra americana",
+      region: "北美洲",
+      habitat: "草原 / 灌丛",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Pronghorn (Antilocapra americana).jpg",
+        "Antilocapra americana.jpg",
+        "Pronghorn.jpg"
+      ],
+      summary: "西半球跑得最快的陆地动物，角鞘还会脱落。",
+      story: "叉角羚的速度可能是为了追赶已经灭绝的美洲猎豹。它们能以高速持续奔跑，却不善于跨越围栏。一道道牧场铁丝，把草原切成了它们难以越过的迷宫。",
+      facts: [
+        "时速可超 80 公里",
+        "角鞘会季节性脱落",
+        "迁徙常被围栏阻断"
+      ]
+    },
+    {
+      id: "california-condor",
+      name: "加州神鹫",
+      latin: "Gymnogyps californianus",
+      region: "北美洲",
+      habitat: "峡谷 / 海岸",
+      diet: "腐食",
+      status: "极危",
+      statusLevel: "cr",
+      files: [
+        "Gymnogyps californianus -Santa Barbara Zoo, California, USA-8a.jpg",
+        "California condor.jpg",
+        "Gymnogyps californianus.jpg"
+      ],
+      summary: "北美洲翼展最大的鸟，曾全部被带进人工繁育再放回天空。",
+      story: "加州神鹫一度在野外一只不剩。铅弹中毒、栖息地丧失让这种清道夫几乎消失。今天每一只放归的个体都有编号翼标，像一份还在书写的复活记录。",
+      facts: [
+        "翼展可超 2.7 米",
+        "曾野外灭绝后被再引入",
+        "铅中毒仍是威胁"
+      ]
+    },
+    {
+      id: "american-alligator",
+      name: "美洲短吻鳄",
+      latin: "Alligator mississippiensis",
+      region: "北美洲",
+      habitat: "沼泽 / 河流",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "American-Alligator.jpg",
+        "Alligator mississippiensis.jpg",
+        "American alligator.jpg"
+      ],
+      summary: "从濒危名单上走下来的爬行动物，会用吻部发出次声波震动水面。",
+      story: "美洲短吻鳄在繁殖季把头顶露出水面，让水珠跳起舞来吸引配偶。它们挖掘的“鳄塘”在旱季成为鱼类和鸟类的避难所。保护法律让这种曾经被制成皮包的动物重新撑满沼泽。",
+      facts: [
+        "保护成功的经典案例",
+        "会营造水体栖息地",
+        "雌性守护巢丘"
+      ]
+    },
+    {
+      id: "bobcat",
+      name: "短尾猫",
+      latin: "Lynx rufus",
+      region: "北美洲",
+      habitat: "林地 / 半荒漠",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Bobcat2.jpg",
+        "Lynx rufus.jpg",
+        "Bobcat.jpg"
+      ],
+      summary: "尾巴短得像被剪过，是北美最适应多种环境的小型猫科。",
+      story: "短尾猫从佛罗里达沼泽走到西部峡谷，都能找到兔子。它们用斑点和短尾在灌丛里隐形。郊区的红外相机常常在夜里拍到一对发光的眼睛，然后是一团斑纹。",
+      facts: [
+        "尾短有黑尖",
+        "适应性极强",
+        "主要以兔类为食"
+      ]
+    },
+    {
+      id: "coyote",
+      name: "郊狼",
+      latin: "Canis latrans",
+      region: "北美洲",
+      habitat: "草原 / 城市边缘",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "2009-Coyote-Yosemite.jpg",
+        "Canis latrans.jpg",
+        "Coyote.jpg"
+      ],
+      summary: "会在城市里唱夜曲的犬科，适应力让它越赶越多。",
+      story: "郊狼吃鼠、果、腐肉，也学会了看交通灯。它们的嚎叫常被误认成狼。消灭大型狼之后，郊狼填进了许多空出来的生态位，成为北美最成功的中型食肉动物之一。",
+      facts: [
+        "高度适应城市",
+        "食谱极广",
+        "家庭单位灵活"
+      ]
+    },
+    {
+      id: "striped-skunk",
+      name: "条纹臭鼬",
+      latin: "Mephitis mephitis",
+      region: "北美洲",
+      habitat: "林地 / 农田",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Striped Skunk.jpg",
+        "Mephitis mephitis.jpg",
+        "Striped skunk.jpg"
+      ],
+      summary: "黑白警告色背后是精确瞄准的臭液喷雾。",
+      story: "条纹臭鼬先跺脚、竖尾，最后才喷射。那液体能让进攻者暂时失明并记住教训。它们其实大部分时间在挖甲虫和老鼠，只有被逼到角落才动用化学武器。",
+      facts: [
+        "喷雾可及数米",
+        "警戒姿态分明",
+        "以昆虫和小型动物为食"
+      ]
+    },
+    {
+      id: "porcupine",
+      name: "北美豪猪",
+      latin: "Erethizon dorsatum",
+      region: "北美洲",
+      habitat: "森林",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Erethizon dorsatum (North American porcupine).jpg",
+        "North American porcupine.jpg",
+        "Erethizon dorsatum.jpg"
+      ],
+      summary: "身上两万多根刺不是射出去的，而是等对方自己撞上来。",
+      story: "北美豪猪会爬到树冠吃嫩芽和树皮。刺的反向倒钩让被扎中的捕食者很难拔出。幼崽出生时刺是软的，几小时后才变硬——像一份延迟生效的盔甲。",
+      facts: [
+        "刺有倒钩",
+        "善于爬树",
+        "冬食树皮"
+      ]
+    },
+    {
+      id: "canada-lynx",
+      name: "加拿大猞猁",
+      latin: "Lynx canadensis",
+      region: "北美洲",
+      habitat: "北方森林",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Canada lynx by Keith Williams.jpg",
+        "Lynx canadensis.jpg",
+        "Canada lynx.jpg"
+      ],
+      summary: "脚掌宽得像雪鞋，数量跟着雪兔的丰年歉年一起起伏。",
+      story: "加拿大猞猁几乎把菜单写成了“雪兔”。兔多的年份幼崽成活率高，兔少的年份整片林子都会安静下来。厚毛和巨大脚掌让它们能在深雪里继续走路。",
+      facts: [
+        "脚掌极宽",
+        "高度依赖雪兔",
+        "耳尖有簇毛"
+      ]
+    },
+    {
+      id: "american-beaver",
+      name: "美洲河狸",
+      latin: "Castor canadensis",
+      region: "北美洲",
+      habitat: "河流 / 湿地",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "American Beaver.jpg",
+        "Castor canadensis.jpg",
+        "North American beaver.jpg"
+      ],
+      summary: "会改变地图的工程师，一座坝就能把小溪变成湿地。",
+      story: "美洲河狸用牙齿放倒杨树和柳树，再把它们编进水坝。新形成的池塘养活鱼、蛙和水禽。人也曾为皮毛几乎把它们捕尽，今天很多流域又把河狸当成免费的修复工。",
+      facts: [
+        "会建造水坝与巢穴",
+        "牙齿终生生长",
+        "能显著改变水文"
+      ]
+    },
+    {
+      id: "great-horned-owl",
+      name: "大角鸮",
+      latin: "Bubo virginianus",
+      region: "北美洲",
+      habitat: "森林 / 城市公园",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Bubo virginianus 06.jpg",
+        "Great horned owl.jpg",
+        "Bubo virginianus.jpg"
+      ],
+      summary: "头上两撮“角羽”不是耳朵，低沉的叫声却能压住整片夜。",
+      story: "大角鸮几乎什么都敢抓，包括臭鼬和别的猫头鹰。它们不自己筑巢，而是占用鹰或乌鸦的旧巢。城市里的墓园和高尔夫球场，有时也是它们的猎场。",
+      facts: [
+        "食谱极广",
+        "不自建巢",
+        "叫声低沉悠长"
+      ]
+    },
+    {
+      id: "monarch",
+      name: "君主斑蝶",
+      latin: "Danaus plexippus",
+      region: "北美洲",
+      habitat: "草原 / 花园",
+      diet: "植食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Monarch Butterfly Danaus plexippus (4514).jpg",
+        "Danaus plexippus.jpg",
+        "Monarch butterfly.jpg"
+      ],
+      summary: "用好几代生命接力，完成从加拿大到墨西哥的迁徙。",
+      story: "一只君主斑蝶吃过马利筋，翅膀就带上了毒素警告色。秋季出生的一代会飞到墨西哥的冷杉林过冬，春天再往北传宗接代。没有连成线的蜜源和过冬林地，这场接力就会在中途断开。",
+      facts: [
+        "跨代完成迁徙",
+        "幼虫取食马利筋",
+        "过冬地高度集中"
+      ]
+    },
+    {
+      id: "american-pika",
+      name: "北美鼠兔",
+      latin: "Ochotona princeps",
+      region: "北美洲",
+      habitat: "高山碎石坡",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Ochotona princeps.jpg",
+        "American pika.jpg",
+        "Pika with haypile.jpg"
+      ],
+      summary: "不会冬眠的高山居民，夏天要晒够一整冬的干草。",
+      story: "北美鼠兔把植物收成小垛，在石头缝里风干。它们对高温很敏感，因此气候变暖会把它们往更高处推。一声尖哨从岩坡传来，常常比看见那团灰色更容易。",
+      facts: [
+        "不冬眠而贮藏食物",
+        "对高温敏感",
+        "生活在碎石坡"
+      ]
+    },
+    {
+      id: "roadrunner",
+      name: "走鹃",
+      latin: "Geococcyx californianus",
+      region: "北美洲",
+      habitat: "干旱灌丛",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Greater Roadrunner.jpg",
+        "Geococcyx californianus.jpg",
+        "Roadrunner.jpg"
+      ],
+      summary: "宁愿跑步也不常飞的杜鹃科鸟，能对付蜥蜴甚至小型蛇。",
+      story: "走鹃在沙漠地面上像一支被发射的箭。它们用速度和精准的喙捕捉蜥蜴、昆虫和蛇。卡通里的“哔哔鸟”被简化了，真实的走鹃更像一位严肃的热沙漠猎手。",
+      facts: [
+        "善跑不善长飞",
+        "能捕食毒蜥与蛇",
+        "尾巴用于转向平衡"
+      ]
+    },
+    {
+      id: "giant-anteater",
+      name: "大食蚁兽",
+      latin: "Myrmecophaga tridactyla",
+      region: "南美洲",
+      habitat: "草原 / 疏林",
+      diet: "食虫",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Giant Anteater (Myrmecophaga tridactyla).jpg",
+        "Myrmecophaga tridactyla.jpg",
+        "Giant anteater.jpg"
+      ],
+      summary: "一根管子当脸，一条尾巴当毯子，舌头一分钟能进出上百次。",
+      story: "大食蚁兽从不同蚁巢各取一点，以免把一座巢吃到崩溃。它们用前爪破开坚硬的蚁丘，再用黏舌收获。走路时爪子向内弯着，像握着自己的工具。",
+      facts: [
+        "无齿",
+        "舌长可超 60 厘米",
+        "一次只取食部分蚁巢"
+      ]
+    },
+    {
+      id: "spectacled-bear",
+      name: "眼镜熊",
+      latin: "Tremarctos ornatus",
+      region: "南美洲",
+      habitat: "安第斯云雾林",
+      diet: "植食为主",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Tremarctos ornatus -Berlin Zoological Garden-8a.jpg",
+        "Spectacled bear.jpg",
+        "Tremarctos ornatus.jpg"
+      ],
+      summary: "南美洲唯一的熊，眼圈像戴着一副没有两只相同的眼镜。",
+      story: "眼镜熊大部分时间吃果实、竹笋和腐肉很少的植物。每只脸上的浅色图案都不同。云雾林被改成牧场后，这种害羞的熊只能沿着更窄的山脊移动。",
+      facts: [
+        "南美唯一现生熊",
+        "面部斑纹个体独特",
+        "善于爬树取食"
+      ]
+    },
+    {
+      id: "vicuna",
+      name: "小羊驼",
+      latin: "Vicugna vicugna",
+      region: "南美洲",
+      habitat: "高原草地",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Vicugna vicugna (peruvian camelid).jpg",
+        "Vicuña.jpg",
+        "Vicugna vicugna.jpg"
+      ],
+      summary: "羊驼家族里最纤细的野生成员，毛比云还轻。",
+      story: "小羊驼的绒毛曾让它们几乎被剪到灭绝。今天的社区轮牧和严格剪毛制度，让这种高原则畜重新成为风景。它们喝很少的水，却能在稀薄空气里奔跑。",
+      facts: [
+        "绒毛极为细软",
+        "曾因毛皮濒危",
+        "适应高海拔干旱"
+      ]
+    },
+    {
+      id: "llama",
+      name: "大羊驼",
+      latin: "Lama glama",
+      region: "南美洲",
+      habitat: "高原 / 牧场",
+      diet: "植食",
+      status: "家养",
+      statusLevel: "dom",
+      files: [
+        "Llama (Lama glama) portrait.jpg",
+        "Lama glama.jpg",
+        "Llama.jpg"
+      ],
+      summary: "安第斯的驮运伙伴，不满意时会朝你吐一口青草沫。",
+      story: "大羊驼被驯化来运货、给毛和看护羊群。它们记仇也记好，能认出常打交道的人。一声抱怨的咕哝，常常比踢更早到来。",
+      facts: [
+        "由原驼驯化而来",
+        "可作驮畜与卫士",
+        "会用吐唾表达不满"
+      ]
+    },
+    {
+      id: "howler-monkey",
+      name: "红吼猴",
+      latin: "Alouatta seniculus",
+      region: "南美洲",
+      habitat: "热带雨林",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Alouatta seniculus seniculus.jpg",
+        "Red howler monkey.jpg",
+        "Alouatta seniculus.jpg"
+      ],
+      summary: "黎明时分能把整片林子叫醒，声音来自喉咙里的骨盒。",
+      story: "红吼猴的舌骨扩大成共鸣箱，几公里外都能听见。它们不需要每天走很远，因为叫声已经替它们划好了边界。听起来像怒吼，其实常常只是在说：这棵树有主了。",
+      facts: [
+        "是最响的陆生动物之一",
+        "以叶为主食",
+        "活动范围相对较小"
+      ]
+    },
+    {
+      id: "spectacled-caiman",
+      name: "眼镜凯门鳄",
+      latin: "Caiman crocodilus",
+      region: "南美洲",
+      habitat: "湿地 / 河流",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Caiman crocodilus -Trinidad-6.jpg",
+        "Spectacled caiman.jpg",
+        "Caiman crocodilus.jpg"
+      ],
+      summary: "眼间有一副骨质“眼镜框”，是新热带最常见的鳄类之一。",
+      story: "眼镜凯门鳄能在水塘、沟渠甚至牧场水坑里生活。适应性让它们在一些地方数量很多，也让人更容易忽略真正脆弱的近亲。夜间用手电筒一照，水面会浮起两排红点。",
+      facts: [
+        "眼间有骨质脊",
+        "适应性强",
+        "以鱼和甲壳动物为食"
+      ]
+    },
+    {
+      id: "poison-frog",
+      name: "染色箭毒蛙",
+      latin: "Dendrobates tinctorius",
+      region: "南美洲",
+      habitat: "热带雨林地面",
+      diet: "食虫",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Dendrobates tinctorius (Regenbogenwaldsteiger) a.jpg",
+        "Dendrobates tinctorius.jpg",
+        "Dyeing dart frog.jpg"
+      ],
+      summary: "把毒性写在身上的微型广告牌，颜色越醒目越不必逃跑。",
+      story: "染色箭毒蛙的毒素来自野生食物中的生物碱，人工饲养后往往不再那么毒。雄性会把蝌蚪背到树洞水洼里。一枚纽扣大的身体，撑起一套复杂的育幼路线。",
+      facts: [
+        "体色变异极多",
+        "野生个体具毒性",
+        "雄性背运蝌蚪"
+      ]
+    },
+    {
+      id: "andean-condor",
+      name: "安第斯神鹫",
+      latin: "Vultur gryphus",
+      region: "南美洲",
+      habitat: "高山 / 海岸",
+      diet: "腐食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Vultur gryphus -Patagonia, Chile-8.jpg",
+        "Andean condor.jpg",
+        "Vultur gryphus.jpg"
+      ],
+      summary: "雄性头上顶着肉冠，借助上升气流可以滑翔数小时。",
+      story: "安第斯神鹫是安第斯山脉的清道夫和象征。一对配偶多年相守，几年才成功养大一只幼鸟。投食项目能让它们被看见，却替代不了完整的有蹄类和开阔天空。",
+      facts: [
+        "世界上最重的飞行鸟之一",
+        "繁殖周期很长",
+        "依赖上升气流滑翔"
+      ]
+    },
+    {
+      id: "giant-otter",
+      name: "巨獭",
+      latin: "Pteronura brasiliensis",
+      region: "南美洲",
+      habitat: "河流 / 湖岸",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Giant Otter (Pteronura brasiliensis).jpg",
+        "Pteronura brasiliensis.jpg",
+        "Giant otter.jpg"
+      ],
+      summary: "世界上最长的水獭，家族会用合唱把一条河宣布为自己的。",
+      story: "巨獭白天成群捕鱼，睡在河岸的洞穴里。它们的喉咙斑纹像指纹。水银污染、淘金和渔网让这种外向的河流居民变得少见。一条安静的河，有时是因为巨獭已经离开。",
+      facts: [
+        "体长可近 1.8 米",
+        "高度社群性",
+        "喉斑可用于识别个体"
+      ]
+    },
+    {
+      id: "amazon-river-dolphin",
+      name: "亚马孙河豚",
+      latin: "Inia geoffrensis",
+      region: "南美洲",
+      habitat: "河流 / 淹没林",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Inia geoffrensis 2.jpg",
+        "Amazon river dolphin.jpg",
+        "Pink river dolphin.jpg"
+      ],
+      summary: "洪水季节会游进森林的粉色海豚，颈椎灵活得能转弯抓鱼。",
+      story: "亚马孙河豚的粉色随着年龄和活动加深。未愈合的颈椎让它们能在树干间转身。传说把它们写成会上岸的精灵，现实里它们更怕渔网、水坝和被搅浑的河水。",
+      facts: [
+        "成体常呈粉红色",
+        "能进入淹没森林",
+        "颈椎比海海豚更灵活"
+      ]
+    },
+    {
+      id: "hoatzin",
+      name: "麝雉",
+      latin: "Opisthocomus hoazin",
+      region: "南美洲",
+      habitat: "河岸沼泽林",
+      diet: "植食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Opisthocomus hoazin2.jpg",
+        "Hoatzin.jpg",
+        "Opisthocomus hoazin.jpg"
+      ],
+      summary: "雏鸟翅膀上还有爪子，成鸟则靠发酵树叶发出特别的气味。",
+      story: "麝雉像一只从另一条演化路上走来的鸟。雏鸟用翼爪爬回巢，成鸟的嗉囊像反刍动物一样发酵叶子。靠近一棵它们栖息的树，先闻到的往往不是羽毛，而是青贮的味道。",
+      facts: [
+        "雏鸟具翼爪",
+        "以叶为主并以发酵消化",
+        "气味独特"
+      ]
+    },
+    {
+      id: "maned-wolf",
+      name: "鬃狼",
+      latin: "Chrysocyon brachyurus",
+      region: "南美洲",
+      habitat: "草原 / 灌丛",
+      diet: "杂食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Maned wolf (Chrysocyon brachyurus) 2.jpg",
+        "Chrysocyon brachyurus.jpg",
+        "Maned wolf.jpg"
+      ],
+      summary: "腿长得像踩着高跷的狐狸，其实既不是狼也不是狐。",
+      story: "鬃狼用长腿越过高草，夜晚发出类似咳嗽的吼声。果实在它们的食谱里占很大比例，因此也在草原上帮植物搬家。单独生活的它们，用气味而不是嚎叫维持距离。",
+      facts: [
+        "单独成属",
+        "腿极长",
+        "果实占食谱很大比例"
+      ]
+    },
+    {
+      id: "southern-pudu",
+      name: "南方普度鹿",
+      latin: "Pudu puda",
+      region: "南美洲",
+      habitat: "温带雨林",
+      diet: "植食",
+      status: "近危",
+      statusLevel: "nt",
+      files: [
+        "Pudu puda.jpg",
+        "Southern pudú.jpg",
+        "Pudu.jpg"
+      ],
+      summary: "世界上最矮的鹿之一，受惊时会像兔子一样钻进密林。",
+      story: "南方普度鹿肩高往往只有 40 厘米出头。它们在智利和阿根廷的湿润森林里啃嫩芽，尽量不走到空地上。犬和破碎的林缘，对这种微型鹿来说都是巨大的威胁。",
+      facts: [
+        "肩高约 40 厘米",
+        "极隐蔽",
+        "依赖密集林下植被"
+      ]
+    },
+    {
+      id: "coati",
+      name: "南美浣熊",
+      latin: "Nasua nasua",
+      region: "南美洲",
+      habitat: "森林 / 林缘",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Nasua nasua 2.jpg",
+        "South American coati.jpg",
+        "Nasua nasua.jpg"
+      ],
+      summary: "鼻子能翘起来翻落叶，雌性和幼崽常排成一条探路队。",
+      story: "南美浣熊用灵活的长鼻探入石缝和树洞。雌性带着孩子成群觅食，成年雄性多半独自行动。它们既是种子传播者，也是野餐篮的潜在访客。",
+      facts: [
+        "鼻部极度灵活",
+        "雌性结群",
+        "昼夜都可能活动"
+      ]
+    },
+    {
+      id: "tasmanian-devil",
+      name: "袋獾",
+      latin: "Sarcophilus harrisii",
+      region: "大洋洲",
+      habitat: "林地 / 海岸灌丛",
+      diet: "肉食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Sarcophilus harrisii taronga.jpg",
+        "Tasmanian devil.jpg",
+        "Sarcophilus harrisii.jpg"
+      ],
+      summary: "咬合力大得离谱的食腐者，夜晚的尖叫曾让人以为有魔鬼。",
+      story: "袋獾能咬碎骨头，把一具尸体清理到几乎不剩。一种传染性面部肿瘤曾让种群崩溃。隔离的无病岛屿和疫苗研究，是这场现代疫症里少有的光。",
+      facts: [
+        "咬合力相对体型极强",
+        "会发出刺耳尖叫",
+        "受传染性肿瘤威胁"
+      ]
+    },
+    {
+      id: "quokka",
+      name: "短尾矮袋鼠",
+      latin: "Setonix brachyurus",
+      region: "大洋洲",
+      habitat: "岛屿灌丛",
+      diet: "植食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Quokka 1.jpg",
+        "Setonix brachyurus.jpg",
+        "Quokka.jpg"
+      ],
+      summary: "常被称作“世界上最爱笑的动物”，其实只是一张放松的脸。",
+      story: "短尾矮袋鼠在罗特尼斯岛上很少怕人，因此成为自拍明星。大陆种群则要面对狐狸和栖息地丧失。微笑是人类的投影，对它们来说，夜晚的草和白天的荫凉才重要。",
+      facts: [
+        "夜行植食",
+        "岛屿种群更不怕人",
+        "大陆种群受入侵捕食者威胁"
+      ]
+    },
+    {
+      id: "cassowary",
+      name: "鹤鸵",
+      latin: "Casuarius casuarius",
+      region: "大洋洲",
+      habitat: "热带雨林",
+      diet: "植食为主",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Casuarius casuarius -Miami Metrozoo, Florida, USA-8a.jpg",
+        "Southern cassowary.jpg",
+        "Casuarius casuarius.jpg"
+      ],
+      summary: "头上顶着头盔，脚上藏着能划开威胁的匕首爪。",
+      story: "鹤鸵吞下整颗雨林果实，再把种子送到别处发芽。雄鸟负责孵卵和带雏。遇见它们最好让路：这不是好斗，而是一位雨林园丁在保护自己的空间。",
+      facts: [
+        "是重要的种子传播者",
+        "雄鸟育幼",
+        "内趾有长刃状爪"
+      ]
+    },
+    {
+      id: "sugar-glider",
+      name: "蜜袋鼯",
+      latin: "Petaurus breviceps",
+      region: "大洋洲",
+      habitat: "桉树林",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Petaurus breviceps 1.jpg",
+        "Sugar glider.jpg",
+        "Petaurus breviceps.jpg"
+      ],
+      summary: "四肢间撑开皮膜，能从一棵桉树滑到另一棵。",
+      story: "蜜袋鼯夜里在树冠间滑翔觅食花蜜、树液和昆虫。社群挤在树洞里互相理毛。失去连续的树冠后，一次滑翔就会变成一次坠落。",
+      facts: [
+        "能滑翔数十米",
+        "树洞巢居",
+        "以树液和花蜜为重要食物"
+      ]
+    },
+    {
+      id: "echidna",
+      name: "短吻针鼹",
+      latin: "Tachyglossus aculeatus",
+      region: "大洋洲",
+      habitat: "森林 / 草原",
+      diet: "食虫",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Short-beaked echidna in Melbourne Zoo.jpg",
+        "Tachyglossus aculeatus.jpg",
+        "Short-beaked echidna.jpg"
+      ],
+      summary: "卵生的刺球，遇到危险就把自己种进土里。",
+      story: "短吻针鼹和鸭嘴兽同属单孔目。它们用吻探测电信号，挖开蚁巢。繁殖期雄性会排成一列跟着雌性，像一场缓慢的游行。",
+      facts: [
+        "卵生哺乳动物",
+        "遇险会挖地自埋",
+        "分布几乎遍及澳洲"
+      ]
+    },
+    {
+      id: "dingo",
+      name: "澳洲野犬",
+      latin: "Canis dingo",
+      region: "大洋洲",
+      habitat: "干旱区 / 林地",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Dingo walking.jpg",
+        "Canis dingo.jpg",
+        "Dingo.jpg"
+      ],
+      summary: "澳洲最大的陆地掠食者之一，嚎叫却很少像家犬那样连续狂吠。",
+      story: "澳洲野犬可能由早期人类带上大陆，如今已是生态中的关键角色。与家犬杂交让“纯野犬”变得难以界定。一道著名的防犬篱笆，也画出了人对荒野的矛盾心情。",
+      facts: [
+        "较少连续吠叫",
+        "与家犬存在杂交",
+        "对小型哺乳动物有调控作用"
+      ]
+    },
+    {
+      id: "frilled-lizard",
+      name: "伞蜥",
+      latin: "Chlamydosaurus kingii",
+      region: "大洋洲",
+      habitat: "热带疏林",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Chlamydosaurus kingii.jpg",
+        "Frilled lizard.jpg",
+        "Frill-necked lizard.jpg"
+      ],
+      summary: "受惊时张开颈部的伞状皱褶，再以后腿直立奔跑。",
+      story: "伞蜥大部分时间贴在树干上，颜色像一块树皮。真正被逼到眼前，那圈皱褶才会突然打开，把身体放大一倍。随后它们常常两脚着地跑走，像一只匆忙的微型恐龙。",
+      facts: [
+        "颈伞用于威慑",
+        "能双足奔跑",
+        "以昆虫和小型脊椎动物为食"
+      ]
+    },
+    {
+      id: "saltwater-crocodile",
+      name: "湾鳄",
+      latin: "Crocodylus porosus",
+      region: "大洋洲",
+      habitat: "河口 / 红树林",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Crocodylus porosus 4.jpg",
+        "Saltwater crocodile.jpg",
+        "Crocodylus porosus.jpg"
+      ],
+      summary: "现存最大的爬行动物，能把身体当成一根漂在潮水里的木头。",
+      story: "湾鳄既可以生活在淡水上游，也可以穿越开阔海域。它们的伏击精确、爆发力惊人。北澳的河边警告牌不是装饰，而是和这种古老猎手共用土地的说明书。",
+      facts: [
+        "体长可超 6 米",
+        "能进行海洋巡游",
+        "领域性极强"
+      ]
+    },
+    {
+      id: "kiwi",
+      name: "北岛褐几维",
+      latin: "Apteryx mantelli",
+      region: "大洋洲",
+      habitat: "森林 / 灌丛",
+      diet: "食虫",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Apteryx mantelli.jpg",
+        "North Island brown kiwi.jpg",
+        "Kiwi bird.jpg"
+      ],
+      summary: "鼻孔长在喙尖的夜行鸟，蛋大到几乎像一颗不合比例的月亮。",
+      story: "几维用喙尖的鼻孔在落叶层下闻蚯蚓。它们不会飞，羽毛像头发。引入的鼬和猫让这种新西兰国鸟必须靠围栏和夜间巡护才能睡觉。",
+      facts: [
+        "鼻孔位于喙尖",
+        "卵相对体型极大",
+        "不会飞的夜行鸟"
+      ]
+    },
+    {
+      id: "lyrebird",
+      name: "华丽琴鸟",
+      latin: "Menura novaehollandiae",
+      region: "大洋洲",
+      habitat: "温带雨林",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Lyrebird.jpg",
+        "Menura novaehollandiae.jpg",
+        "Superb lyrebird.jpg"
+      ],
+      summary: "能模仿链锯、相机快门和二十种鸟鸣的森林拟音师。",
+      story: "雄性华丽琴鸟在冬天的土台上展开琴状尾羽，同时播放一段从森林和人类世界采样的混音。模仿不是玩笑，而是求偶质量的展示。听得越像，越说明这只鸟活得足够很久、听得足够很细。",
+      facts: [
+        "模仿能力极强",
+        "雄鸟有琴状尾",
+        "在地面舞台求偶"
+      ]
+    },
+    {
+      id: "thorny-devil",
+      name: "刺魔蜥",
+      latin: "Moloch horridus",
+      region: "大洋洲",
+      habitat: "干旱沙地",
+      diet: "食虫",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Moloch horridus.jpg",
+        "Thorny devil.jpg",
+        "Thorny devil lizard.jpg"
+      ],
+      summary: "全身是刺，皮肤却能把露水一路引到嘴角。",
+      story: "刺魔蜥几乎只吃蚂蚁，常常站在蚁道旁边慢慢用餐。皮肤上的微细沟槽能通过毛细作用收集水分。它看起来可怕，其实慢、专一，并且完全依赖完整的沙漠蚁群。",
+      facts: [
+        "皮肤可收集水分",
+        "几乎只吃蚂蚁",
+        "体色随温度变化"
+      ]
+    },
+    {
+      id: "numbat",
+      name: "袋食蚁兽",
+      latin: "Myrmecobius fasciatus",
+      region: "大洋洲",
+      habitat: "桉树林",
+      diet: "食虫",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Myrmecobius fasciatus 1.jpg",
+        "Numbat.jpg",
+        "Myrmecobius fasciatus.jpg"
+      ],
+      summary: "白天活动的条纹食蚁者，舌头可以探进白蚁的隧道。",
+      story: "袋食蚁兽不挖巨大的巢，而是沿着腐烂原木寻找白蚁。狐狸和猫让它们退到少数保护区。白天能看见这种有袋类，本身就是保护围栏有效的证据。",
+      facts: [
+        "白天活动",
+        "几乎只吃白蚁",
+        "依赖粗木质残体"
+      ]
+    },
+    {
+      id: "narwhal",
+      name: "一角鲸",
+      latin: "Monodon monoceros",
+      region: "极地海洋",
+      habitat: "北极海域",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Narwhals breach.jpg",
+        "Monodon monoceros.jpg",
+        "Narwhal.jpg"
+      ],
+      summary: "螺旋长牙其实是一颗长出来的牙齿，能感知水温和盐度。",
+      story: "一角鲸的长牙布满神经末梢，不是单纯的长矛。雄性常用它并排摩擦。海冰变化让这种“海上独角兽”必须在移动的通道里寻找呼吸孔。",
+      facts: [
+        "长牙多为雄性左上牙",
+        "牙本质有感觉功能",
+        "依赖海冰边缘生境"
+      ]
+    },
+    {
+      id: "beluga",
+      name: "白鲸",
+      latin: "Delphinapterus leucas",
+      region: "极地海洋",
+      habitat: "北极近海",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Beluga25.jpg",
+        "Delphinapterus leucas.jpg",
+        "Beluga whale.jpg"
+      ],
+      summary: "没有背鳍的白色歌手，额部的“瓜”让表情看起来总会微笑。",
+      story: "白鲸能做出丰富的声音，因此常被称作海金丝雀。柔软的颈部让它们可以点头和转向。河口和浅湾是幼鲸的育婴室，也是航运噪音最先到达的地方。",
+      facts: [
+        "成体呈白色",
+        "发声极其丰富",
+        "颈比多数鲸类更灵活"
+      ]
+    },
+    {
+      id: "leatherback",
+      name: "棱皮龟",
+      latin: "Dermochelys coriacea",
+      region: "极地海洋",
+      habitat: "远洋",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "LeatherbackTurtle.jpg",
+        "Dermochelys coriacea.jpg",
+        "Leatherback sea turtle.jpg"
+      ],
+      summary: "没有硬壳的最大海龟，能追着水母游进寒冷的海域。",
+      story: "棱皮龟的背是革质的棱脊，而不是普通龟壳。它们能调节体温，因此出现在比其他海龟更冷的海里。误食塑料袋对靠水母为生的它尤其危险。",
+      facts: [
+        "现存最大的龟",
+        "主要捕食水母",
+        "分布跨越热带到冷温带"
+      ]
+    },
+    {
+      id: "hammerhead",
+      name: "路氏双髻鲨",
+      latin: "Sphyrna mokarran",
+      region: "极地海洋",
+      habitat: "热带大陆架",
+      diet: "肉食",
+      status: "极危",
+      statusLevel: "cr",
+      files: [
+        "Sphyrna mokarran at georgia aquarium.jpg",
+        "Great hammerhead.jpg",
+        "Sphyrna mokarran.jpg"
+      ],
+      summary: "把脑袋摊成一把 T 形探测器，用来扫描埋在沙里的魟。",
+      story: "路氏双髻鲨的头能增加升力，也能拉开两侧的电感受器。它们常独自巡游，却会在某些海山附近短暂聚集。鱼翅贸易让这种外形最容易被认出的鲨变得最危险。",
+      facts: [
+        "头呈明显锤状",
+        "能探测沙下猎物",
+        "鱼翅需求致种群骤降"
+      ]
+    },
+    {
+      id: "sperm-whale",
+      name: "抹香鲸",
+      latin: "Physeter macrocephalus",
+      region: "极地海洋",
+      habitat: "深海",
+      diet: "肉食",
+      status: "易危",
+      statusLevel: "vu",
+      files: [
+        "Mother and baby sperm whale.jpg",
+        "Physeter macrocephalus.jpg",
+        "Sperm whale.jpg"
+      ],
+      summary: "拥有动物世界最大的脑子，能潜到黑暗里用声音寻找大王乌贼。",
+      story: "抹香鲸的头是一座巨大的声波透镜。雌性和幼鲸组成稳定的家庭，雄性则在更冷的海里游荡。捕鲸时代追逐的是头里的鲸蜡，今天它们要面对的是噪音和塑料。",
+      facts: [
+        "地球上最大的齿鲸",
+        "可深潜超过 1000 米",
+        "以声呐定位猎物"
+      ]
+    },
+    {
+      id: "humpback-whale",
+      name: "座头鲸",
+      latin: "Megaptera novaeangliae",
+      region: "极地海洋",
+      habitat: "远洋 / 近海",
+      diet: "滤食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Humpback stellwagen edit.jpg",
+        "Megaptera novaeangliae.jpg",
+        "Humpback whale.jpg"
+      ],
+      summary: "胸鳍长得像翅膀，雄性的歌能在繁殖海域里传很远。",
+      story: "座头鲸会合作布下“气泡网”把鱼赶进餐桌。它们的迁徙连接极地索饵场和热带繁殖场。每一尾尾叶的黑白图案都不同，像一本写在海上的身份证。",
+      facts: [
+        "会使用气泡网捕食",
+        "雄性会唱歌",
+        "尾叶斑纹可识别个体"
+      ]
+    },
+    {
+      id: "gentoo-penguin",
+      name: "巴布亚企鹅",
+      latin: "Pygoscelis papua",
+      region: "极地海洋",
+      habitat: "亚南极岛屿",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Pygoscelis papua -Brown Bluff.jpg",
+        "Gentoo penguin.jpg",
+        "Pygoscelis papua.jpg"
+      ],
+      summary: "头上像系了一条白头带，是企鹅里游泳最快的选手之一。",
+      story: "巴布亚企鹅用卵石求婚，谁偷了邻居的石头，巢边就会响起抗议。它们在海藻和磷虾之间选择当日菜单。游客靠得太近时，一条白头带会先侧过身来打量你。",
+      facts: [
+        "游泳速度很快",
+        "用石子筑巢",
+        "眼上方有白色斑纹"
+      ]
+    },
+    {
+      id: "leopard-seal",
+      name: "豹海豹",
+      latin: "Hydrurga leptonyx",
+      region: "极地海洋",
+      habitat: "南极海冰",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Hydrurga leptonyx edit1.jpg",
+        "Leopard seal.jpg",
+        "Hydrurga leptonyx.jpg"
+      ],
+      summary: "嘴里同时长着用于撕咬和过滤的牙齿，能捕企鹅也能吃磷虾。",
+      story: "豹海豹独自沿着冰缘巡逻，身形修长得像一枚鱼雷。它们会在水下发出复杂的叫声。对企鹅来说，上岸前那一段浅水是最危险的走廊。",
+      facts: [
+        "牙齿兼具撕咬与过滤",
+        "多为独居",
+        "可捕食企鹅和其他海豹"
+      ]
+    },
+    {
+      id: "california-sea-lion",
+      name: "加州海狮",
+      latin: "Zalophus californianus",
+      region: "极地海洋",
+      habitat: "岩岸 / 码头",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Zalophus californianus male.jpg",
+        "California sea lion.jpg",
+        "Zalophus californianus.jpg"
+      ],
+      summary: "能在码头上排成一排晒太阳，水下却是灵活的高速猎手。",
+      story: "加州海狮用可旋转的后肢在陆地上“走路”，这点与真正的海豹不同。渔码头成了它们的休息室，也带来了与渔民的摩擦。一声吠叫从浮筒上传来，城市港口就有了野生的边角。",
+      facts: [
+        "后肢可在陆地前转",
+        "社群在岸上聚集",
+        "以鱼类和乌贼为食"
+      ]
+    },
+    {
+      id: "clownfish",
+      name: "眼斑双锯鱼",
+      latin: "Amphiprion ocellaris",
+      region: "极地海洋",
+      habitat: "珊瑚礁",
+      diet: "杂食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Ocellaris clownfish.JPG",
+        "Amphiprion ocellaris.jpg",
+        "Clownfish in anemone.jpg"
+      ],
+      summary: "住在海葵触手里的小鱼，家族里最大的那条会变成雌鱼。",
+      story: "眼斑双锯鱼对海葵的刺有特殊耐受，因此把最危险的地方当成育婴室。如果雌鱼消失，体型最大的雄鱼会转变性别。珊瑚礁一白化，海葵和它们的小房客会一起失去住所。",
+      facts: [
+        "与海葵共生",
+        "会性别转变",
+        "以藻类和无脊椎动物为食"
+      ]
+    },
+    {
+      id: "whale-shark",
+      name: "鲸鲨",
+      latin: "Rhincodon typus",
+      region: "极地海洋",
+      habitat: "热带远洋",
+      diet: "滤食",
+      status: "濒危",
+      statusLevel: "en",
+      files: [
+        "Whale shark Georgia aquarium.jpg",
+        "Rhincodon typus.jpg",
+        "Whale shark.jpg"
+      ],
+      summary: "世界上最大的鱼，满身星点，却只滤食浮游生物。",
+      story: "鲸鲨张开的嘴像一座移动的山洞，海水从鳃耙间流走，留下磷虾和鱼卵。每一头的斑点排列都不同。观光船靠得太近时，这颗温和的星球会潜向更深的蓝。",
+      facts: [
+        "体长可超 12 米",
+        "滤食浮游生物",
+        "斑点可用于识别个体"
+      ]
+    },
+    {
+      id: "giant-pacific-octopus",
+      name: "北美巨章鱼",
+      latin: "Enteroctopus dofleini",
+      region: "极地海洋",
+      habitat: "北太平洋岩礁",
+      diet: "肉食",
+      status: "无危",
+      statusLevel: "lc",
+      files: [
+        "Enteroctopus dofleini.jpg",
+        "Giant Pacific octopus.jpg",
+        "Giant octopus.jpg"
+      ],
+      summary: "冷水里的智力选手，腕足上的吸盘能品尝也能抓住螃蟹。",
+      story: "北美巨章鱼会开盖、堆石、改变颜色和质地。寿命通常只有几年，繁殖后亲体往往会死去。一只看似柔软的身体，把短暂的一生用在学习如何从缝隙里消失。",
+      facts: [
+        "是体型最大的章鱼之一",
+        "吸盘具味觉",
+        "繁殖后亲体常死亡"
+      ]
     }
   ];
 
