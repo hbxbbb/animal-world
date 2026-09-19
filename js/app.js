@@ -82,13 +82,14 @@
       .map(
         (item) => `
         <button class="card" type="button" data-id="${item.id}">
-          <img src="${item.thumb || item.image}" alt="${item.name}" loading="lazy" referrerpolicy="no-referrer" />
+          <img src="${item.thumb || item.image}" alt="${item.name}" loading="lazy" referrerpolicy="no-referrer" onerror="this.dataset.i=this.dataset.i||0;const p=${JSON.stringify(item.photos || [item.image])};this.dataset.i++;if(this.dataset.i<p.length)this.src=p[this.dataset.i];" />
           <div class="card-body">
             <div class="region">${item.region} · ${item.habitat}</div>
             <h3>${item.name}</h3>
             <p class="latin">${item.latin}</p>
             <p>${item.summary}</p>
             <span class="badge ${item.statusLevel}">${item.status}</span>
+            <span class="photo-count">${(item.photos || [item.image]).length} 张照片</span>
           </div>
         </button>`
       )
@@ -98,9 +99,30 @@
   function openAnimal(id) {
     const item = animals.find((entry) => entry.id === id);
     if (!item) return;
-    document.getElementById("sheet-image").src = item.image;
-    document.getElementById("sheet-image").alt = item.name;
-    document.getElementById("sheet-image").referrerPolicy = "no-referrer";
+    const photos = item.photos && item.photos.length ? item.photos : [item.image];
+    const main = document.getElementById("sheet-image");
+    const thumbs = document.getElementById("sheet-thumbs");
+    const showPhoto = (index) => {
+      main.src = photos[index];
+      main.alt = `${item.name} 照片 ${index + 1}`;
+      main.referrerPolicy = "no-referrer";
+      thumbs.querySelectorAll("button").forEach((btn, i) => {
+        btn.classList.toggle("active", i === index);
+      });
+    };
+    thumbs.innerHTML = photos
+      .map(
+        (src, index) =>
+          `<button type="button" data-photo="${index}"${index === 0 ? " class=\"active\"" : ""}>
+            <img src="${src}" alt="${item.name} 缩略图 ${index + 1}" referrerpolicy="no-referrer" />
+          </button>`
+      )
+      .join("");
+    thumbs.onclick = (event) => {
+      const btn = event.target.closest("[data-photo]");
+      if (btn) showPhoto(Number(btn.dataset.photo));
+    };
+    showPhoto(0);
     document.getElementById("sheet-region").textContent = `${item.region} / ${item.habitat}`;
     document.getElementById("sheet-name").textContent = item.name;
     document.getElementById("sheet-latin").textContent = item.latin;

@@ -422,6 +422,15 @@ h1, h2, h3 {
 .badge.en, .badge.cr { background: #f0c7b0; }
 .badge.vu, .badge.nt { background: #ead8a6; }
 .badge.lc, .badge.dom { background: #d5e4d3; }
+.badge.cr { background: #f0b4a4; }
+.badge.dd { background: #ddd4c4; }
+
+.photo-count {
+  display: inline-block;
+  margin-left: 8px;
+  font-size: 12px;
+  color: #7a6d5c;
+}
 
 .empty {
   text-align: center;
@@ -478,10 +487,40 @@ h1, h2, h3 {
   box-shadow: var(--shadow);
 }
 
+.sheet-photo {
+  display: flex;
+  flex-direction: column;
+  background: #1b1712;
+}
+
 .sheet-photo img {
   width: 100%;
   height: 100%;
   min-height: 420px;
+  object-fit: cover;
+}
+
+.thumbs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+  padding: 8px;
+}
+
+.thumbs button {
+  padding: 0;
+  border: 2px solid transparent;
+  background: #2a241c;
+  cursor: pointer;
+}
+
+.thumbs button.active {
+  border-color: #e3b07a;
+}
+
+.thumbs img {
+  height: 72px;
+  min-height: 72px;
   object-fit: cover;
 }
 
